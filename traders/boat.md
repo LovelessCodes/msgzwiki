@@ -1,0 +1,4 @@
+---
+label: Boat
+icon: ":boat:"
+---
