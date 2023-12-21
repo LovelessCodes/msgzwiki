@@ -46,8 +46,11 @@ Adds a new trader, that requires a higher humanity amount.
 [!ref Super Hero Trader](/traders/super-hero.md)
 ==-
 ==- Bunny's Jets
-Adds a new trader, that requires a higher humanity amount.
-[!ref Super Hero Trader](/traders/super-hero.md)
+Adds a few new traders, that requires a higher humanity amount.
+[!ref Honey Bunny Trader](/traders/honey-bunny.md)
+[!ref Bunny's Vehicles Trader](/traders/bunnys-vehicles.md)
+[!ref Bunny's Gardencenter Trader](/traders/bunnys-gardencenter.md)
+[!ref Legend Bunny Trader](/traders/legend-bunny.md)
 ==-
 ==- Gambling Arcade Machine
 Adds a new way of getting coins...   
