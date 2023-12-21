@@ -1,5 +1,6 @@
 ---
 label: Bunny's Gardencenter
+icon: ":eggplant:"
 order: 2
 ---
 !!! Humanity Requirement
