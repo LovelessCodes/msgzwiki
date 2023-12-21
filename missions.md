@@ -48,7 +48,7 @@ Success
 :   TBD
 
 Fail
-:   Survivors did not deal with the Scout Patrol!
+:   *Survivors did not deal with the Scout Patrol!*
 
 ==- Bandit Medical Supply Camp
 Start
@@ -82,7 +82,7 @@ Fail
 
 ==- Bandit Slaughter House
 Start
-:   Something smells funky at the Old Slaughter House!
+:   *Something smells funky at the Old Slaughter House!*
 
 Success
 :   TBD
@@ -143,7 +143,7 @@ Fail
 ### [!badge size="xl" text="Hard" variant="danger"]
 ==- Bandit IKEA Convoy
 Start
-:   An IKEA delivery has been hijacked by bandits!
+:   *An IKEA delivery has been hijacked by bandits!*
 
 Success
 :   TBD
@@ -226,7 +226,7 @@ Fail
 
 ==- Bandit Tank Column
 Start
-:   TBD
+:   *A bandit tank column stopped to resupply at an outpost!*
 
 Success
 :   TBD
@@ -308,7 +308,7 @@ Success
 :   TBD
 
 Fail
-:   Survivors did not secure Castle Grayskull.
+:   *Survivors did not secure Castle Grayskull.*
 
 ==- Bandit Fire Station
 32 Bandits
