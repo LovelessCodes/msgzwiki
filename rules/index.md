@@ -2,7 +2,7 @@
 label: Rules
 icon: ":scroll:"
 layout: default
-order: 98
+order: 99
 ---
 # Rules
 There's two different rule-sets per-se.   
