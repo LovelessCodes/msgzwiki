@@ -6,7 +6,7 @@ branding:
   logoDark: /static/Logo_1.png
   label: Wiki
 edit:
-  repo: https://github.com/LovelessCodes/msgz.wiki
+  repo: https://github.com/LovelessCodes/msgzwiki
   branch: master
   label: Edit on GitHub
 footer:
