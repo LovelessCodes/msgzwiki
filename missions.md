@@ -34,16 +34,18 @@ Start
 :   *Mercenaries stashed a loot crate in rubble town!*
 
 ==- Mechanic's Vehicle
+Start
+:   *A mechanic has left his truck full of ...*
 ==-
 
 ## Bandit Missions
 ### [!badge size="xl" text="Easy" variant="success"]
 ==- Bandit Scout Patrol
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   Survivors did not deal with the Scout Patrol!
@@ -53,7 +55,7 @@ Start
 :   *Bandits have taken over a medical supply camp!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   *Survivors did not secure the supplies in time!*
@@ -63,52 +65,79 @@ Start
 :   *A Bandit Squad has started an outpost!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Farmer
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
+
+==- Bandit Slaughter House
+Start
+:   Something smells funky at the Old Slaughter House!
+
+Success
+:   TBD
 
 ==- Bandit Ural Attack
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 ==-
 
 ### [!badge size="xl" text="Medium" variant="warning"]
 ==- Bandit Junk Yard
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   *Survivors did not secure the Junk yard.*
 
-==- Bandit Disabled \[Vehicle\]
+==- Bandit Abandoned Trader
 Start
-:   
+:   *Bandits are securing an abandoned trader!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
+
+==- Bandit Black Hawk Crash
+Start
+:   TBD
+
+Success
+:   TBD
+
+Fail
+:   TBD
+
+==- Bandit Disabled \[Vehicle\]
+Start
+:   TBD
+
+Success
+:   TBD
+
+Fail
+:   TBD
 ==-
 
 ### [!badge size="xl" text="Hard" variant="danger"]
@@ -117,30 +146,30 @@ Start
 :   An IKEA delivery has been hijacked by bandits!
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   *Survivors did not secure the convoy in time!*
 
 ==- Bandit The Farm
 Start
-:   
+:   TBD
 
 Success
 :   *Survivors saved the hippie commune.*
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Sniper Extraction \[Helicopter\]
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 This one is a little tricky to explain, mostly it'll be `20-30 bandits` (mostly with snipers) guarding a Helicopter of some sort.   
 
@@ -154,20 +183,20 @@ CH-UY
 
 ==- Bandit Crop Raider
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Military Base
 Start
 :   *A jungle task force have set up a temporary encampment!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   *Survivors were unable to capture the encampment!*
@@ -178,59 +207,69 @@ Start
 :   *The ARMY set up a guarded base!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 Amount of Bandits: `23`
 
 ==- Bandit Radio Tower
 Start
-:   
+:   *Bandits set up a radio tower!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Tank Column
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Gem Tower
 Start
 :   *GEM TOWER! Climb up the tower ...*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Drone Pilot
 Start
 :   *Bandits are training drone pilots at a secret airfield!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
+
+==- Bandit Cannibal Cave
+Start
+:   *Cannibals are hiding in a cave!*
+
+Success
+:   TBD
+
+Fail
+:   TBD
 
 ==- Bandit Lumber Mill
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   *Survivors did not secure the lumber!*
@@ -239,10 +278,10 @@ Fail
 ### [!badge size="xl" text="Challenging" variant="ghost"]
 ==- Bandit Wuhan Lab
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
 :   *Dr. Fauci is still lying about the origin of the virus.*
@@ -255,21 +294,21 @@ Success
 :   *The President has been assasinated!*
 
 Fail
-:   Definition 3
+:   TBD
 
 ==- Bandit Mayors Mansion
 Start
-:   
+:   TBD
 
 ==- Bandit Castle Grayskull
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   Survivors did not secure Castle Grayskull.
 
 ==- Bandit Fire Station
 32 Bandits
@@ -277,42 +316,32 @@ Start
 :   *Bandits are attacking a fire station!*
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   *Survivors failed to secure the fire station.*
 ==-
 
 ### [!badge size="xl" text="Impossible" variant="contrast"]
 ==- Drug Empire
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 ==-
 
 ### [!badge size="xl" text="Uncategorized" variant="primary"]
-==- Bandit Abandoned Trader
-Start
-:   
-
-Success
-:   Definition 2
-
-Fail
-:   Definition 3
-
 ==- Bandit Captured \[Vehicle\]
 Start
-:   
+:   TBD
 
 Success
-:   Definition 2
+:   TBD
 
 Fail
-:   Definition 3
+:   TBD
 ==-
