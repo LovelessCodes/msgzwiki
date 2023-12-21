@@ -233,7 +233,7 @@ Success
 :   Definition 2
 
 Fail
-:   Definition 3
+:   *Survivors did not secure the lumber!*
 ==-
 
 ### [!badge size="xl" text="Challenging" variant="ghost"]
