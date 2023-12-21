@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.756465980406">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.756508303814">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -31,12 +31,12 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../static/favicon.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.5.0.756465980406" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.756508303814" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.756465980406" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.756508303814" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../resources/js/search.js?v=3.5.0.756465980406" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.756465980406" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/search.js?v=3.5.0.756508303814" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.756508303814" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -209,54 +209,75 @@
     </h1>
 </doc-anchor-target>
 <p>There&#x27;s a long list of addons on the server, but on this site we&#x27;ll just highlight the important ones.</p>
-<doc-panel id="napf-extended" collapsed>
-    <template #title>Napf Extended</template>
+<doc-panels>
+   <doc-panel id="napf-extended" collapsed>
+       <template #title>Napf Extended</template>
 <p>The map used is called Napf (Chernarus), and here we&#x27;ve gone ahead and made custom cities, as well as custom traders - therefore we call it &quot;<em>Napf Extended</em>&quot;.</p>
-</doc-panel>
-<doc-panel id="wicked-ai" collapsed>
-    <template #title>Wicked AI</template>
+   </doc-panel>
+   <doc-panel id="wicked-ai" collapsed>
+       <template #title>Wicked AI</template>
 <p>Enhances the game&#x27;s Artificial Intelligence (AI) for non-player characters (NPCs). It typically makes the AI more challenging and intelligent, often by improving their combat tactics, decision-making, and overall behavior.</p>
-</doc-panel>
-<doc-panel id="convoys" collapsed>
-    <template #title>Convoys</template>
+   </doc-panel>
+   <doc-panel id="convoys" collapsed>
+       <template #title>Convoys</template>
 <p>Adds convoys around the map on different roads, which consists of AI-controlled vehicles, with at least a couple of bandits, moving from one location to another.<br />
 The reward for downing such a convoy might not seem so great, but is a great way to qucikly grab some new guns and a quick buck.</p>
-</doc-panel>
-<doc-panel id="dayz-mission-system-dzms" collapsed>
-    <template #title>DayZ Mission System (DZMS)</template>
+   </doc-panel>
+   <doc-panel id="dayz-mission-system-dzms" collapsed>
+       <template #title>DayZ Mission System (DZMS)</template>
 <p>Adds a ton of different missions across Chernarus, for the players to engage with and earn humanity and a ton of loot.</p>
-<p>We go further down into the specifics over at the <a href="../missions/index.html">missions</a> page.</p>
-</doc-panel>
-<doc-panel id="vehicle-key-changer" collapsed>
-    <template #title>Vehicle Key Changer</template>
+<p>We go further down into the specifics over at the <a href="../missions/index.html">missions</a> page.
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Missions</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../missions/index.html</span>
+    </div>
+    <a href="../missions/index.html" class="absolute block inset-0"></a>
+</div>
+</p>
+   </doc-panel>
+   <doc-panel id="vehicle-key-changer" collapsed>
+       <template #title>Vehicle Key Changer</template>
 <p>Adds a way to change the key used for vehicles.</p>
 <p>This can be used to have loads of different vehicles on one key, to prevent the players having a bad time when trying to find the right key.</p>
 <p>You&#x27;ll need a Keymakers Kit, as well as two keys - one of the keys is for the vehicle you want to move to another key, and the other one is the key you want to move it to.<br />
 When trying to interact with a vehicle, you can select &quot;<em>Change Vehicle Key</em>&quot; and pick the key you want to move the vehicle to.</p>
-</doc-panel>
-<doc-panel id="door-safe-code-changer" collapsed>
-    <template #title>Door/Safe Code Changer</template>
+   </doc-panel>
+   <doc-panel id="remote-key-for-locking-unlocking-vehicles" collapsed>
+       <template #title>Remote key for locking/unlocking vehicles</template>
+<p>Adds a new right-click option for keys.<br />
+If the player is near a vehicle (a distance of 50, can be changed) that matches the key, the option to lock or unlock the vehicle becomes available.</p>
+   </doc-panel>
+   <doc-panel id="door-safe-code-changer" collapsed>
+       <template #title>Door/Safe Code Changer</template>
 <p>Adds a way to add a custom code for safes/lockboxes/doors when placed and allow changing of codes.</p>
-</doc-panel>
-<doc-panel id="home-base-elevators" collapsed>
-    <template #title>Home Base Elevators</template>
+   </doc-panel>
+   <doc-panel id="home-base-elevators" collapsed>
+       <template #title>Home Base Elevators</template>
 <p>Adds an elevator to the game, that you can use in your bases.</p>
-</doc-panel>
-<doc-panel id="valuable-hunting-fishing" collapsed>
-    <template #title>Valuable Hunting &amp; Fishing</template>
-<p>Tired of Hunting and Fishing being dead? Fear no more, we&#x27;ve corrected prices for the typical hunting supplies, that should hopefully give you the boost you needed!</p>
-</doc-panel>
-<doc-panel id="gem-ore-vein-hunting" collapsed>
-    <template #title>Gem/Ore Vein Hunting</template>
+<p>TODO: Text Guide of setting this up
+TODO: Video Guide of setting this up</p>
+   </doc-panel>
+   <doc-panel id="valuable-hunting-fishing" collapsed>
+       <template #title>Valuable Hunting &amp; Fishing</template>
+<p>Tired of Hunting and Fishing, being a deadend job? Fear no more, we&#x27;ve corrected prices for the typical hunting supplies, that should hopefully give you the boost you needed!</p>
+   </doc-panel>
+   <doc-panel id="gem-ore-vein-hunting" collapsed>
+       <template #title>Gem/Ore Vein Hunting</template>
 <p>Ref: <a href="https://epochmod.fandom.com/wiki/A2Epoch:Ore_Veins">https://epochmod.fandom.com/wiki/A2Epoch:Ore_Veins</a></p>
-</doc-panel>
-<doc-panel id="vehicle-god-mode-on-plot-poles-while-locked" collapsed>
-    <template #title>Vehicle God Mode on Plot Poles while Locked</template>
+   </doc-panel>
+   <doc-panel id="vehicle-god-mode-on-plot-poles-while-locked" collapsed>
+       <template #title>Vehicle God Mode on Plot Poles while Locked</template>
 <p>Self explanatory...<br />
-The vehicles &quot;on&quot; plot poles, will have god mode while locked.</p>
-</doc-panel>
-<doc-panel id="super-hero-trader" collapsed>
-    <template #title>Super Hero Trader</template>
+The vehicles &quot;on&quot; plot poles, will not take damage while locked.</p>
+   </doc-panel>
+   <doc-panel id="super-hero-trader" collapsed>
+       <template #title>Super Hero Trader</template>
 <p>Adds a new trader, that requires a higher humanity amount.
 <div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
     <div class="flex items-center text-blue-500 dark:text-blue-400">
@@ -271,9 +292,9 @@ The vehicles &quot;on&quot; plot poles, will have god mode while locked.</p>
     <a href="../traders/super-hero/index.html" class="absolute block inset-0"></a>
 </div>
 </p>
-</doc-panel>
-<doc-panel id="bunny-s-jets" collapsed>
-    <template #title>Bunny&#x27;s Jets</template>
+   </doc-panel>
+   <doc-panel id="bunny-s-jets" collapsed>
+       <template #title>Bunny&#x27;s Jets</template>
 <p>Adds a few new traders, that requires a higher humanity amount.
 <div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
     <div class="flex items-center text-blue-500 dark:text-blue-400">
@@ -324,12 +345,13 @@ The vehicles &quot;on&quot; plot poles, will have god mode while locked.</p>
     <a href="../traders/legend-bunny/index.html" class="absolute block inset-0"></a>
 </div>
 </p>
-</doc-panel>
-<doc-panel id="gambling-arcade-machine" collapsed>
-    <template #title>Gambling Arcade Machine</template>
+   </doc-panel>
+   <doc-panel id="gambling-arcade-machine" collapsed>
+       <template #title>Gambling Arcade Machine</template>
 <p>Adds a new way of getting coins...<br />
 Why waste your precious time going on missions, when you could just run the slots, and make dozens of coins?</p>
-</doc-panel>
+   </doc-panel>
+</doc-panels>
 
                                 
                                 <!-- Required only on API pages -->
@@ -345,11 +367,11 @@ Why waste your precious time going on missions, when you could just run the slot
                             
                                 <nav class="flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../traders/legend-bunny/index.html">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../traders/wholesaler/index.html">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
                                                 <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Legend Bunny</span>
+                                                <span class="block mt-1">Wholesaler</span>
                                             </span>
                                         </a>
                                     </div>
