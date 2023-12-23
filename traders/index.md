@@ -3,6 +3,14 @@ label: Traders
 icon: ":chart:"
 order: 97
 ---
+## Humanity Required Traders
+[!ref Hero Trader](/traders/hero.md)
+[!ref Honey Bunny Trader](/traders/honey-bunny.md)
+[!ref Super Hero Trader](/traders/super-hero.md)
+[!ref Bunny's Gardencenter Trader](/traders/bunnys-gardencenter.md)
+[!ref Bunny's Vehicles Trader](/traders/bunnys-vehicles.md)
+[!ref Legend Bunny Trader](/traders/legend-bunny.md)
+
 ## Misc. Trader Places
 === Trader City Bash
 
