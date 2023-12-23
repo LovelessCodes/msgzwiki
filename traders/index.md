@@ -11,6 +11,11 @@ order: 97
 [!ref Bunny's Vehicles Trader](/traders/bunnys-vehicles.md)
 [!ref Legend Bunny Trader](/traders/legend-bunny.md)
 
+## Specific Traders
+[!ref Air Trader](/traders/air.md)
+[!ref Aircraft Trader](/traders/aircraft.md)
+[!ref Boat Trader](/traders/boat.md)
+
 ## Misc. Trader Places
 === Trader City Bash
 
