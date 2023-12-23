@@ -16,8 +16,6 @@ order: 97
 [!ref Survival Trader](/traders/survival.md)
 [!ref Vehicle Trader](/traders/vehicle.md)
 
-==- Trader City Klen
-
 ==- Kozlovka Trader Outpost
 [!ref Currency Trader](/traders/currency.md)
 [!ref Parts Trader](/traders/parts.md)
