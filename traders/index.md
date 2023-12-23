@@ -15,6 +15,13 @@ order: 97
 === Trader City Bash
 
 ==- Trader City Klen
+[!ref Currency Trader](/traders/currency.md)
+[!ref Parts Trader](/traders/parts.md)
+[!ref Medic Trader](/traders/medic.md)
+[!ref Survival Trader](/traders/survival.md)
+[!ref Vehicle Trader](/traders/vehicle.md)
+[!ref Weapon Trader](/traders/weapon.md)
+[!ref Ammunition Trader](/traders/ammunition.md)
 
 ==- Trader City Stary
 [!ref Currency Trader](/traders/currency.md)
