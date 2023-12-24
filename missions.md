@@ -337,20 +337,6 @@ Success
 
 Fail
 :   *Survivors did not secure the lumber!*
-
-==- Bandit Fire Station
-!!!
-Amount of Bandits: `32`
-!!!
-
-Start
-:   *Bandits are attacking a fire station!*
-
-Success
-:   TBD
-
-Fail
-:   *Survivors failed to secure the fire station.*
 ==-
 
 ### [!badge size="xl" text="Challenging" variant="ghost"]
@@ -401,6 +387,20 @@ Success
 
 Fail
 :   *Survivors did not secure Castle Grayskull.*
+
+==- Bandit Fire Station
+!!!
+Amount of Bandits: `32`
+!!!
+
+Start
+:   *Bandits are attacking a fire station!*
+
+Success
+:   TBD
+
+Fail
+:   *Survivors failed to secure the fire station.*
 
 ==-
 
