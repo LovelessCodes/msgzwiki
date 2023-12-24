@@ -45,7 +45,7 @@ TODO: Video Guide of setting this up
 Tired of Hunting and Fishing, being a deadend job? Fear no more, we've corrected prices for the typical hunting supplies, that should hopefully give you the boost you needed!
 
 ==- Gem/Ore Vein Hunting
-When you have a GPS on you, you can right-click it and select "Scan for Ores", and it'll give you a list of ores near you, and the direction you should go to find it.   
+When you have a GPS on you, you can right-click it and select "Scan for Ore Veins" within 1500m of you, and it'll give you a list of ores near you, and the direction you should go to find it.   
 TODO: Add more info about Gem/Ore Vein Hunting   
 [!ref Epoch Wiki on Ore Veins (Fandom)](https://epochmod.fandom.com/wiki/A2Epoch:Ore_Veins)
 
