@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.756732460280">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.756742591255">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -31,12 +31,12 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.756732460280" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.756742591255" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.756732460280" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.756742591255" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.756732460280" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.756732460280" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.756742591255" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.756742591255" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -250,6 +250,41 @@ When you&#x27;ve gotten the coins out, or gotten some money in your wallet - you
 <template #title>Bandits</template>
 <p>When killing bandits, you&#x27;ll usually have a better weapon than a bloody <code v-pre>Famas</code>.</p>
 <p>If you want to go long distance on your future enemies, you&#x27;ll either want to get a <code v-pre>Sniper Rifle</code>, or a weapon with an <code v-pre>ACOG</code> scope.</p>
+</doc-tab>
+</doc-tabs>
+   </doc-panel>
+   <doc-panel id="gathering-humanity" collapsed>
+       <template #title>Gathering Humanity</template>
+<p>Increasing your humanity is a key part of the gameplay. You start with a base humanity of <code v-pre>2,500</code>.</p>
+<doc-tabs>
+<doc-tab v-cloak id="burying-bodies">
+<template #title>Burying Bodies</template>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>You will need the tool <code v-pre>Entrenching Tool</code> to do this</p>
+        </div>
+    </div>
+</div>
+<p>Burying bodies is often a way to dispose of deceased players or NPCs, and it provides a substantial boost to your humanity score, typically granting <code v-pre>30</code> humanity points per body buried.</p>
+</doc-tab>
+<doc-tab v-cloak id="killing-bandits">
+<template #title>Killing Bandits</template>
+<p>To boost your humanity, focus on eliminating <code v-pre>bandits</code>, which are typically encountered during <a href="../../missions/index.html">missions</a>. Each bandit you successfully take down will add <code v-pre>35</code> humanity to your score. Engaging in these <a href="../../missions/index.html">missions</a> not only challenges your combat skills but also strategically increases your humanity, impacting your character&#x27;s standing and experience in the game. Remember, consistent participation in <a href="../../missions/index.html">missions</a> and effective elimination of <code v-pre>bandits</code> are your primary means to accumulate more humanity and progress in the game.</p>
+</doc-tab>
+<doc-tab v-cloak id="killing-zombies">
+<template #title>Killing Zombies</template>
+<p>Another way to increase your humanity is by killing zombies. For each zombie you eliminate, you will earn <code v-pre>5</code> humanity points. This means that actively engaging and defeating zombies is an in-effective method to boost your humanity.</p>
 </doc-tab>
 </doc-tabs>
    </doc-panel>
