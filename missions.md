@@ -337,14 +337,28 @@ Success
 
 Fail
 :   *Survivors did not secure the lumber!*
+
+==- Bandit Fire Station
+!!!
+Amount of Bandits: `32`
+!!!
+
+Start
+:   *Bandits are attacking a fire station!*
+
+Success
+:   TBD
+
+Fail
+:   *Survivors failed to secure the fire station.*
 ==-
 
 ### [!badge size="xl" text="Challenging" variant="ghost"]
+==- Bandit Wuhan Lab
 !!!
 Amount of Bandits: `41`
 !!!
 
-==- Bandit Wuhan Lab
 Start
 :   TBD
 
@@ -368,6 +382,12 @@ Fail
 Start
 :   TBD
 
+Success
+:   TBD
+
+Fail
+:   TBD
+
 ==- Bandit Castle Grayskull
 !!!
 Amount of Bandits: `40`
@@ -382,19 +402,6 @@ Success
 Fail
 :   *Survivors did not secure Castle Grayskull.*
 
-==- Bandit Fire Station
-!!!
-Amount of Bandits: `32`
-!!!
-
-Start
-:   *Bandits are attacking a fire station!*
-
-Success
-:   TBD
-
-Fail
-:   *Survivors failed to secure the fire station.*
 ==-
 
 ### [!badge size="xl" text="Impossible" variant="contrast"]
