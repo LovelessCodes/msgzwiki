@@ -27,5 +27,5 @@ The guide begins by outlining the basic steps for integrating the DLC into DayZ 
           ```
           "%_STEAMPATH%\steam.exe" -applaunch 33930 "-mod=%_ARMA2PATH%;EXPANSION;ca;@ACR;@DayZ;@DayZ_Epoch" -nosplash -skipIntro -noPause
           ```
-      2. (Optional) If you want it to straight to the M.S.G server, you can add `-connect="213.166.86.65" -port="2302"` to the end of that.
+      2. (Optional) If you want it to go straight to the M.S.G server, you can add `-connect="213.166.86.65" -port="2302"` to the end of that.
 5. Double-click the file, and you'll be good to go.
