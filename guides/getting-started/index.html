@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.756892823956">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.756940237125">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -21,22 +21,24 @@
     <meta property="og:url" content="https://msgz.wiki/guides/getting-started/index.html">
     <meta property="og:title" content="Getting Started | M.S.G Wiki">
     <meta property="og:description" content="This page should get you started good on the server, and get you most of the information that you need when starting out.">
+    <meta property="og:image" content="https://msgz.wiki/static/mining/iron_ore_vein.webp">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://msgz.wiki/guides/getting-started/index.html">
     <meta property="twitter:title" content="Getting Started | M.S.G Wiki">
     <meta property="twitter:description" content="This page should get you started good on the server, and get you most of the information that you need when starting out.">
+    <meta property="twitter:image" content="https://msgz.wiki/static/mining/iron_ore_vein.webp">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.756892823956" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.756940237125" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.756892823956" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.756940237125" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.756892823956" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.756892823956" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.756940237125" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.756940237125" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -213,13 +215,83 @@
    <doc-panel id="getting-money" collapsed>
        <template #title>Getting money</template>
 <doc-tabs>
+<doc-tab v-cloak id="mining">
+<template #title>Mining</template>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Before you can go Mining, you need a slashing weapon (<code v-pre>SledgeHammer</code>, <code v-pre>Machete</code>, <code v-pre>Crowbar</code>, or <code v-pre>Hatchet</code>) and a <code v-pre>Toolbox</code>, which can be bought from the <a href="../../traders/parts/index.html">Parts Trader</a></p>
+        </div>
+    </div>
+</div>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-dark-650" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-gray-200 dark:border-dark-650 dark:text-white border-r">
+        <span>Iron</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-gray-200 dark:border-dark-650 dark:text-white border-r">
+        <span>Silver</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-gray-200 dark:border-dark-650 dark:text-white">
+        <span>Gold</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-gray-200 dark:border-dark-650">
+<p><figure class="content-left">
+    <img src="../../static/mining/iron_ore_vein.webp" alt="Iron Ore Vein">
+    <figcaption class="caption caption-float">Iron Ore Vein</figcaption>
+</figure>
+</p>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-gray-200 dark:border-dark-650">
+<p><figure class="content-left">
+    <img src="../../static/mining/silver_ore_vein.webp" alt="Silver Ore Vein">
+    <figcaption class="caption caption-float">Silver Ore Vein</figcaption>
+</figure>
+</p>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<p><figure class="content-left">
+    <img src="../../static/mining/gold_ore_vein.webp" alt="Gold Ore Vein">
+    <figcaption class="caption caption-float">Gold Ore Vein</figcaption>
+</figure>
+</p>
+    </div>
+</div>
+</doc-tab>
 <doc-tab v-cloak id="bandits">
 <template #title>Bandits</template>
 <p>When you kill bandits, you can go over to them and select <code v-pre>Check Wallet</code> - they&#x27;ll usually have around <code v-pre>500</code> to <code v-pre>10,000</code> coins on them.</p>
 </doc-tab>
 <doc-tab v-cloak id="fishing">
 <template #title>Fishing</template>
-<p>Cooked fish sell for quite a lot - between <code v-pre>1,500</code> and <code v-pre>4,000</code> each, but before you can go fishing, you&#x27;ll need a <code v-pre>Fishing Pole</code>.</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Before you can go fishing, you need a <code v-pre>Fishing Pole</code>, which can be bought from the <a href="../../traders/parts/index.html">Parts Trader</a></p>
+        </div>
+    </div>
+</div>
+<!-- TODO: Add more detailed information about how you fish, as well as how to cook the fish before selling -->
+<p>Cooked fish sell for quite a lot - between <code v-pre>1,500</code> and <code v-pre>4,000</code> each.</p>
 </doc-tab>
 </doc-tabs>
    </doc-panel>
