@@ -6,11 +6,32 @@ order: 100
 This page should get you started good on the server, and get you most of the information that you need when starting out.
 
 ==- Getting money
+
++++ Mining
+!!!
+Before you can go Mining, you need a slashing weapon (`SledgeHammer`, `Machete`, `Crowbar`, or `Hatchet`) and a `Toolbox`, which can be bought from the [Parts Trader](/traders/parts.md)
+!!!
+
+
+
+||| Iron
+-![Iron Ore Vein](/static/mining/Iron_Ore_Vein.webp)
+||| Silver
+-![Silver Ore Vein](/static/mining/Silver_Ore_Vein.webp)
+||| Gold
+-![Gold Ore Vein](/static/mining/Gold_Ore_Vein.webp)
+|||
+
 +++ Bandits
+
 When you kill bandits, you can go over to them and select `Check Wallet` - they'll usually have around `500` to `10,000` coins on them.
 
 +++ Fishing
-Cooked fish sell for quite a lot - between `1,500` and `4,000` each, but before you can go fishing, you'll need a `Fishing Pole`.
+!!!
+Before you can go fishing, you need a `Fishing Pole`, which can be bought from the [Parts Trader](/traders/parts.md)
+!!!
+<!-- TODO: Add more detailed information about how you fish, as well as how to cook the fish before selling -->
+Cooked fish sell for quite a lot - between `1,500` and `4,000` each.
 +++
 
 ==- Getting a better weapon
