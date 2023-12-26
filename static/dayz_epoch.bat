@@ -62,7 +62,7 @@ FOR /F "tokens=2* delims=	 " %%W IN ('REG QUERY "HKLM\SOFTWARE\Valve\Steam" /v "
 IF NOT DEFINED _STEAMPATH (GOTO ENDfailSteam) ELSE (GOTO runs)
 
 :runs
-"%_STEAMPATH%\steam.exe" -applaunch 33930 "-mod=%_ARMA2PATH%;EXPANSION;ca;@ACR;@DayZ;@DayZ_Epoch" -connect="213.166.86.65" -port="2302" -nosplash -skipIntro -noPause
+"%_STEAMPATH%\steam.exe" -applaunch 33930 "-mod=%_ARMA2PATH%;EXPANSION;ca;@ACR;@BAF;@PMC;@DayZ_Epoch" -connect="213.166.86.65" -port="2302" -nosplash -skipIntro -noPause
 
 ENDLOCAL
 
