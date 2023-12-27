@@ -126,7 +126,7 @@ Fail
 
 ==- Bandit Abandoned Trader
 !!!
-Amount of Bandits: `20`
+Amount of Bandits: `20` | `15`
 !!!
 
 Start
@@ -149,6 +149,9 @@ Fail
 :   TBD
 
 ==- Bandit Disabled \[Vehicle\]
+!!!
+Amount of Bandits: `18`
+!!!
 Start
 :   *Bandits have disabled an armed vehicle!*
 
@@ -236,6 +239,9 @@ Fail
 :   TBD
 
 ==- Bandit Military Base
+!!!
+Amount of Bandits: `32`
+!!!
 Start
 :   *A jungle task force have set up a temporary encampment!*
 
