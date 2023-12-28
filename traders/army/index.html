@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757086302147">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757087319521">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -31,12 +31,12 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.757086302147" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.757087319521" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757086302147" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757087319521" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.757086302147" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757086302147" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.757087319521" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757087319521" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -209,7 +209,7 @@
     </h1>
 </doc-anchor-target>
 <doc-panels>
-   <doc-panel id="weapons" collapsed>
+   <doc-panel id="weapons">
        <template #title>Weapons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="compact">
@@ -218,6 +218,7 @@
 <th>Name</th>
 <th>Buy</th>
 <th>Sell</th>
+<th>Attachments</th>
 <th>Mags</th>
 </tr>
 </thead>
@@ -226,25 +227,197 @@
 <td>SVD Gold</td>
 <td>7,000 Coins</td>
 <td>5,000 Coins</td>
+<td>None</td>
 <td>10Rnd. SVD/SVU mag.</td>
 </tr>
 <tr>
 <td>AKS</td>
 <td>8,000 Coins</td>
 <td>3,400 Coins</td>
+<td>None</td>
 <td>30Rnd. AK-47M mag., 30Rnd. SA-58 mag.</td>
 </tr>
 <tr>
 <td>AK-47MS Gold</td>
 <td>8,000 Coins</td>
 <td>3,400 Coins</td>
+<td>None</td>
 <td>30Rnd. AK-47M mag., 30Rnd. SA-58 mag., 60Rnd. AK-47M mag.</td>
 </tr>
 <tr>
 <td>Desert Eagle Gold</td>
 <td>5,050 Coins</td>
 <td>2,200 Coins</td>
+<td>None</td>
 <td>7Rnd. .50 AE mag.</td>
+</tr>
+<tr>
+<td>Revolver gold</td>
+<td>4,050 Coins</td>
+<td>2,000 Coins</td>
+<td>None</td>
+<td>6Rnd. Revolver ammo</td>
+</tr>
+<tr>
+<td>Colt Anaconda Gold</td>
+<td>4,050 Coins</td>
+<td>2,000 Coins</td>
+<td>None</td>
+<td>6Rnd. .44 Magnum</td>
+</tr>
+<tr>
+<td>AA-12</td>
+<td>800 Coins</td>
+<td>500 Coins</td>
+<td>None</td>
+<td>20Rnd. AA-12 Pellets, 20Rnd. AA-12 Slug, 20Rnd. AA-12 HE</td>
+</tr>
+<tr>
+<td>USAS-12</td>
+<td>700 Coins</td>
+<td>400 Coins</td>
+<td>None</td>
+<td>20Rnd. USAS-12 Slug, 20Rnd. USAS-12 Pellets</td>
+</tr>
+<tr>
+<td>Saiga 12K</td>
+<td>300 Coins</td>
+<td>100 Coins</td>
+<td>None</td>
+<td>8Rnd. Saiga 12K Slug, 8Rnd. Saiga 12K Pellets</td>
+</tr>
+<tr>
+<td>XM2010</td>
+<td>900 Coins</td>
+<td>500 Coins</td>
+<td>None</td>
+<td>5Rnd. XM2010 mag.</td>
+</tr>
+<tr>
+<td>XM2010 SD</td>
+<td>950 Coins</td>
+<td>550 Coins</td>
+<td>None</td>
+<td>5Rnd. XM2010 SD mag.</td>
+</tr>
+<tr>
+<td>XM2010 NV</td>
+<td>1,000 Coins</td>
+<td>600 Coins</td>
+<td>None</td>
+<td>5Rnd. XM2010 mag.</td>
+</tr>
+<tr>
+<td>XM2010 NV SD</td>
+<td>1,200 Coins</td>
+<td>650 Coins</td>
+<td>None</td>
+<td>5Rnd. XM2010 SD mag.</td>
+</tr>
+<tr>
+<td>KSVK</td>
+<td>1,100 Coins</td>
+<td>700 Coins</td>
+<td>None</td>
+<td>5Rnd. KSVK mag.</td>
+</tr>
+<tr>
+<td>G3A1</td>
+<td>1,500 Coins</td>
+<td>1,000 Coins</td>
+<td>None</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>G3 SG1 Bipod</td>
+<td>2,000 Coins</td>
+<td>1,200 Coins</td>
+<td>None</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>G3 SG1</td>
+<td>2,000 Coins</td>
+<td>1,200 Coins</td>
+<td>None</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>G3A3 ACOG</td>
+<td>2,000 Coins</td>
+<td>1,200 Coins</td>
+<td>None</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>G3A3 CCO</td>
+<td>2,000 Coins</td>
+<td>1,800 Coins</td>
+<td>None</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>G3A3</td>
+<td>2,000 Coins</td>
+<td>1,200 Coins</td>
+<td>[A] M68 CCO, [A] EOTech 553 HWS, [A] TA31A ACOG</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>G3A3 Holo</td>
+<td>2,000 Coins</td>
+<td>1,200 Coins</td>
+<td>None</td>
+<td>20Rnd. G3 mag.</td>
+</tr>
+<tr>
+<td>M79</td>
+<td>700 Coins</td>
+<td>300 Coins</td>
+<td>None</td>
+<td>M203 HE, M203 Flare White, M203 Flare Green, M203 Flare Red, M203 Flare Yellow, M203 Smoke, M203 Smoke Red, M203 Smoke Green, M203 Smoke Yellow</td>
+</tr>
+<tr>
+<td>Mk13</td>
+<td>800 Coins</td>
+<td>400 Coins</td>
+<td>None</td>
+<td>M203 HE, M203 Flare White, M203 Flare Green, M203 Flare Red, M203 Flare Yellow, M203 Smoke, M203 Smoke Red, M203 Smoke Green, M203 Smoke Yellow</td>
+</tr>
+<tr>
+<td>M32</td>
+<td>1,000 Coins</td>
+<td>600 Coins</td>
+<td>None</td>
+<td>6x40mm HE gnds, M203 HE, M203 Flare White, M203 Flare Green, M203 Flare Red, M203 Flare Yellow, M203 Smoke, M203 Smoke Red, M203 Smoke Green, M203 Smoke Yellow</td>
+</tr>
+<tr>
+<td>RPG18</td>
+<td>1,300 Coins</td>
+<td>800 Coins</td>
+<td>None</td>
+<td>RPG18</td>
+</tr>
+<tr>
+<td>RPG-7V</td>
+<td>1,900 Coins</td>
+<td>1,100 Coins</td>
+<td>None</td>
+<td>PG-7V, PG-7VL, PG-7VR, OG-7(HE)</td>
+</tr>
+<tr>
+<td>M136 Launcher</td>
+<td>2,700 Coins</td>
+<td>1,400 Coins</td>
+<td>None</td>
+<td>M136</td>
+</tr>
+<tr>
+<td>SMAW</td>
+<td>3,000 Coins</td>
+<td>1,500 Coins</td>
+<td>None</td>
+<td>SMAW-HEAA, SMAW-HEDP, SMAW-HEAA, SMAW-HEDP</td>
 </tr>
 </tbody>
 </table>
@@ -252,8 +425,10 @@
    </doc-panel>
    <doc-panel id="ammunition" collapsed>
        <template #title>Ammunition</template>
+<p class="compact">
+| Name | Buy | Sell | Mags |</p>
    </doc-panel>
-   <doc-panel id="explosives" collapsed>
+   <doc-panel id="explosives">
        <template #title>Explosives</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="compact">
@@ -297,7 +472,7 @@
    <doc-panel id="vehicle-ammunition" collapsed>
        <template #title>Vehicle Ammunition</template>
    </doc-panel>
-   <doc-panel id="drugs" collapsed>
+   <doc-panel id="drugs">
        <template #title>Drugs</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="compact">
