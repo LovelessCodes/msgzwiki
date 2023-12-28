@@ -26,6 +26,14 @@ You'll need a humanity score of at least [!badge variant="primary" text="75,000"
 | Bag of Sunflower Seeds | 500 Coins | 250 Coins | A few Sunflower seeds. |
 | Bag of Black Tea Seeds | 1,000 Coins | 500 Coins | A few black tea seeds. |
 
+=== Hemp/Tobacco
+
+{.compact}
+| Name | Buy | Sell | Description |
+| --- | --- | --- | --- |
+| Bag of Tobacco Seeds | 1,000 Coins | 500 Coins | A few tobacco seeds. |
+| Bag of Hemp Seeds | 2,000 Coins | 300 Coins | A few hemp seeds. |
+
 === Garden Specials
 
 {.compact}
