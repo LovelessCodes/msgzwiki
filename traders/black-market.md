@@ -40,7 +40,7 @@ The `Black Market` trader (Also known as `Gamekeeper`) trades items that are not
 | M136 Launcher | 2,700 Coins | 1,400 Coins | None | M136 |
 | SMAW | 3,000 Coins | 1,500 Coins | None | SMAW-HEAA, SMAW-HEDP, SMAW-HEAA, SMAW-HEDP |
 
-==- Ammunition
+=== Ammunition
 
 {.compact}
 | Name | Buy | Sell | Caliber | Rounds | Used in |
@@ -72,6 +72,91 @@ The `Black Market` trader (Also known as `Gamekeeper`) trades items that are not
 === Explosives
 
 {.compact}
+| Name | Buy | Sell | Caliber | Rounds | Used in |
+| --- | --- | --- | --- | --- | --- |
+| DT-29 Mag. | 130 Coins | 80 Coins | 7.62x54mm | 100 | PKM, PKP |
+| 50Rnd DSHKM | 140 Coins | 70 Coins | 12.7x107mm | 50 | DSHKM |
+| 150Rnd DSHKM | 350 Coins | 200 Coins | 12.7x107mm | 150 | DSHKM |
+| 50Rnd KORD | 180 Coins | 95 Coins | 12.7x108mm | 50 | KORD |
+| 150Rnd KORD | 380 Coins | 195 Coins | 12.7x108mm | 150 | KORD |
+| 200Rnd. M240 mag. | 100 Coins | 50 Coins | 7.62x51mm | 200 | Jackal L2A1, Jackal MK19 |
+| 460Rnd. Pandur II mag. | 170 Coins | 95 Coins | 7.62x51mm | 460 | Pandur II |
+| 1200Rnd. M240 mag. | 200 Coins | 95 Coins | 7.62x51mm | 1200 | M240 |
+| 200Rnd. PKT mag. | 110 Coins | 55 Coins | 7.62x54mm | 200 | PKT |
+| 1500Rnd. PKT mag. | 180 Coins | 95 Coins | 7.62x54mm | 1500 | PKT |
+| 2000Rnd. PKT mag. | 240 Coins | 115 Coins | 7.62x54mm | 2000 | PKT |
+| 2000Rnd. M134 mag. | 350 Coins | 200 Coins | 7.62x51mm | 2000 | M134, Twin M134 |
+| 4000Rnd. M134 mag. | 480 Coins | 260 Coins | 7.62x51mm | 4000 | M134, Twin M134 |
+| 100Rnd. M2 | 180 Coins | 100 Coins | .50 | 100 | M2 |
+| 100Rnd. .50 BMG | 185 Coins | 110 Coins | .50 | 100 | L111A1 |
+| 2000Rnd. L94A1 | 285 Coins | 170 Coins | 7.62x51mm | 2000 | L94A1 |
+| 250Rnd. M3P | 235 Coins | 130 Coins | .50 | 250 | M3P |
+| 500Rnd. KPVT mag. | 265 Coins | 160 Coins | | 500 | KPVT |
+| 60Rnd. AP ATK MK44 mag. | 280 Coins | 150 Coins | 30mm AP | 60 | ATK MK44 |
+| 210Rnd. M242 AP mag. | 395 Coins | 190 Coins | 25mm AP | 210 | M242 |
+| 210Rnd. M242 HE mag. | 395 Coins | 190 Coins | 25mm HE | 210 | M242 |
+| 230Rnd. 2A42 AP mag. | 485 Coins | 270 Coins | 30mm AP | 230 | 2A42 30mm Cannon |
+| 230Rnd. 2A42 HE mag. | 485 Coins | 270 Coins | 30mm HE | 230 | 2A42 30mm Cannon |
+| 250Rnd. 2A42 AP mag. | 495 Coins | 280 Coins | 30mm AP | 250 | 2A42 30mm Cannon |
+| 250Rnd. 2A42 HE mag. | 495 Coins | 280 Coins | 30mm HE | 250 | 2A42 30mm Cannon |
+| 250Rnd. 2A72 AP mag. | 505 Coins | 290 Coins | 30mm AP | 250 | 2A72 30mm Cannon |
+| 250Rnd. 2A72 HE mag. | 505 Coins | 290 Coins | 30mm HE | 250 | 2A72 30mm Cannon |
+| 1000Rnd. 2A14 AP mag. | 490 Coins | 280 Coins | 23mm AP | 1000 | 2A14 |
+| 1000Rnd. 2A14 HE mag. | 580 Coins | 400 Coins | 23mm HE | 1000 | 2A14 |
+| 6Rnd. HE M32 Heli | 250 Coins | 100 Coins | 30mm HE | 6 | M32 Heli |
+| 29Rnd. AGS-30 | 350 Coins | 200 Coins | 30mm HE | 29 | AGS-30, AGS-17 |
+| 29Rnd. AGS-30 Heli | 355 Coins | 210 Coins | 30mm HE | 29 | AGS-30 Heli |
+| 32Rnd. 40mm Grenade | 375 Coins | 220 Coins | 40mm | 32 | GMG |
+| 48Rnd. MK 19 | 450 Coins | 250 Coins | 40mm HE | 48 | MK 19 |
+| 200Rnd. 7.62x51 mm NATO | 550 Coins | 350 Coins | 7.62x51mm NATO | 200 | GPMG |
+| 400Rnd. AGS-17 | 620 Coins | 370 Coins | 30mm HE | 400 | AGS-17 |
+| 1Rnd. Bolide | 100 Coins | 50 Coins | Anti Air Rocket | 1 | RBS-70 |
+| OG-7(HE) | 750 Coins | 300 Coins | High Explosive | 1 | RPG-7 |
+| OG-9V(HE) | 100 Coins | 50 Coins | | 1 | |
+| PG-9N(AT) | 100 Coins | 50 Coins | | 1 | |
+| 1Rnd. PG15V HE | 120 Coins | 50 Coins | HE Rocket | 1 | 2A28 Grom |
+| 40Rnd. PG15V HE | 200 Coins | 120 Coins | HE Rocket | 40 | 2A28 Grom |
+| 1Rnd. AT-3 Sagger | 120 Coins | 70 Coins | Anti Tank Rocket | 1 | AT-3 |
+| 1Rnd. AT-3 Sagger | 100 Coins | 50 Coins | Anti Tank Rocket | 1 | AT-3 |
+| 2Rnd. ATGM | 180 Coins | 95 Coins | Anti Tank Rocket | 2 | ATGM Spike |
+| 2Rnd. TOW | 185 Coins | 95 Coins | Anti Tank Rocket | 2 | TOW |
+| 2Rnd. TOW-2 | 185 Coins | 95 Coins | Anti Tank Rocket | 2 | TOW-2 |
+| 4Rnd. AT-3 Sagger | 220 Coins | 160 Coins | Anti Tank Rocket | 4 | AT-3 |
+| 6Rnd. TOW-2 | 265 Coins | 195 Coins | Anti Tank Rocket | 6 | TOW-2 |
+| 6Rnd. TOW | 265 Coins | 195 Coins | Anti Tank Rocket | 6 | TOW |
+| 6Rnd. AT13 | 270 Coins | 190 Coins | Anti Tank Rocket | 6 | AT13 |
+| 40Rnd. AZP85 mag. | 450 Coins | 250 Coins | 23mm | 40 | AZP85 |
+| 1904Rnd. 2A38M AA mag. | 670 Coins | 360 Coins | 33mm AA | 1904 | 2A38M 30mm Cannon |
+| 2000Rnd. AZP85 mag. | 680 Coins | 375 Coins | 23mm | 2000 | AZP85 |
+| 5Rnd. AT5 BRDM-2 | 410 Coins | 275 Coins | Anti Tank Rocket | 5 | AT5 BRDM-2 |
+| Igla 9K38 | 360 Coins | 175 Coins | Ground-air | 1 | Igla 9K38 |
+| 2Rnd. Stinger | 360 Coins | 175 Coins | Anti Air Rocket | 2 | Stinger |
+| 8Rnd. 9M311 | 660 Coins | 375 Coins | Anti air missile | 8 | 2S6 Tunguska |
+| 30Rnd. D-30 HE mag. | 800 Coins | 465 Coins | 122mm HE | 30 | D-30 |
+| 30Rnd. D-30 WP mag. | 800 Coins | 465 Coins | 122mm WP | 30 | D-30 |
+| 30Rnd. D-30 ILLUM mag. | 800 Coins | 465 Coins | 122mm ILLUM | 30 | D-30 |
+| 30Rnd. D-30 Laser mag. | 800 Coins | 465 Coins | 122mm Laser | 30 | D-30 |
+| 30Rnd. D-30 SADARM mag. | 800 Coins | 465 Coins | 122mm SADARM | 30 | D-30 |
+| 30Rnd. M119 HE mag. | 820 Coins | 495 Coins | 105mm HE | 30 | M119 |
+| 30Rnd. M119 WP mag. | 820 Coins | 495 Coins | 105mm WP | 30 | M119 |
+| 30Rnd. M119 ILLUM mag. | 820 Coins | 495 Coins | 105mm ILLUM | 30 | M119 |
+| 30Rnd. M119 Laser mag. | 820 Coins | 495 Coins | 105mm Laser | 30 | M119 |
+| 30Rnd. M119 SADARM mag. | 820 Coins | 495 Coins | 105mm SADARM | 30 | M119 |
+| 40Rnd. GRAD | 685 Coins | 395 Coins | HE Rocket | 40 | GRAD |
+| 40Rnd. RM-70 | 685 Coins | 395 Coins | HE Rocket | 40 | RM-70 |
+| 12Rnd. MLRS | 750 Coins | 350 Coins | HE Rocket | 12 | M270 MLRS |
+| 10Rnd. 85mm AP mag. | 350 Coins | 200 Coins | 85mm AP | 10 | 85mm Cannon |
+| 33Rnd. 85mm HE mag. | 370 Coins | 240 Coins | 85mm HE | 33 | 85mm Cannon |
+| 6Rnd. 105mm APDS | 370 Coins | 240 Coins | 105mm AP | 6 | Stryker MGS |
+| 12Rnd. 105mm HESH | 380 Coins | 230 Coins | 105mm HESH | 12 | Stryker MGS |
+| 21Rnd. HEAT T55 mag. | 780 Coins | 395 Coins | 100mm HEAT | 21 | T55 |
+| 22Rnd. IMI SABOT mag. | 390 Coins | 260 Coins | 125mm SABOT | 22 | IMI |
+| 15Rnd. T72 SABOT mag. | 365 Coins | 190 Coins | 125mm SABOT | 15 | T72 |
+| 22Rnd. 2A70 he mag. | 385 Coins | 195 Coins | 100mm HE | 22 | 2A70 |
+| 23Rnd. T72 SABOT mag. | 375 Coins | 185 Coins | 125mm SABOT | 23 | T72 |
+| 22Rnd. T72 HE mag. | 395 Coins | 195 Coins | 125mm HE | 22 | T72 |
+
+{.compact}
 | Name | Buy | Sell |
 | --- | --- | --- |
 | Satchel Charge | 7,000 Coins | 3,000 Coins |
@@ -81,6 +166,8 @@ The `Black Market` trader (Also known as `Gamekeeper`) trades items that are not
 | Toilet Paper | 50,000 Coins | 15,000 Coins |
 
 ==- Vehicle Ammunition
+
+
 
 === Drugs
 
