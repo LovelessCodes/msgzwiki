@@ -37,7 +37,7 @@ order: 97
 
 ==- Trader City Stary
 [!ref Currency Trader](/traders/currency.md)
-[!ref Army Trader](/traders/army.md)
+[!ref Black Market Trader](/traders/black-market.md)
 [!ref Parts Trader](/traders/parts.md)
 [!ref Medic Trader](/traders/medic.md)
 [!ref Survival Trader](/traders/survival.md)
