@@ -7,7 +7,17 @@ order: 2
 You'll need a humanity score of at least [!badge variant="primary" text="75,000"] to trade with this trader.
 !!!
 
+=== Carrot/Potato/Garlic
+
+{.compact}
+| Name | Buy | Sell | Description |
+| --- | --- | --- | --- |
+| Supply Crate (12x Carrot) | 1,600 Coins | 600 Coins | 12x Carrot |
+| Supply Crate (12x Potato Raw) | 1,600 Coins | 600 Coins | 12x Potato Raw |
+| Supply Crate (12x Garlic bulb) | 1,600 Coins | 600 Coins | 12x Garlic bulb |
+
 === Garden Specials
+
 {.compact}
 | Name | Buy | Sell | Description |
 | --- | --- | --- | --- |
@@ -22,4 +32,5 @@ You'll need a humanity score of at least [!badge variant="primary" text="75,000"
 | Boggle | 2,000 Coins | 1,000 Coins | A boggle to protect the fields against birds |
 | Hunting Knife | 1,000 Coins | 500 Coins | Helps with gathering plants |
 | Herbs Notebook | 1,000,000 Coins | 250,000 Coins | Used to start your garden |
+
 ===
