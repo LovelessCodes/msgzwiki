@@ -10,3 +10,6 @@ Here's one to get you started on the M.S.G server, but can be almost guaranteed 
 
 Another one, to just help you enjoy the game just a bit more, with new textures for armed vehicles, helicopters, suits and more:
 [!ref Better Textures Guide](/guides/better-textures.md)
+
+## Tips & Tricks
+- Do not leave backpacks filled with stuff in Safes, Vehicles, or anywhere - as these get emptied during restarts.
