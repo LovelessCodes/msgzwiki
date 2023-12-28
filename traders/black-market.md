@@ -72,6 +72,17 @@ The `Black Market` trader (Also known as `Gamekeeper`) trades items that are not
 === Explosives
 
 {.compact}
+| Name | Buy | Sell |
+| --- | --- | --- |
+| Satchel Charge | 7,000 Coins | 3,000 Coins |
+| M67 Frag Grenade | 400 Coins | 200 Coins |
+| RGO Frag Grenade | 400 Coins | 200 Coins |
+| Suitcase | 50,000 Coins | 5,000 Coins |
+| Toilet Paper | 50,000 Coins | 15,000 Coins |
+
+==- Vehicle Ammunition
+
+{.compact}
 | Name | Buy | Sell | Caliber | Rounds | Used in |
 | --- | --- | --- | --- | --- | --- |
 | DT-29 Mag. | 130 Coins | 80 Coins | 7.62x54mm | 100 | PKM, PKP |
@@ -155,19 +166,6 @@ The `Black Market` trader (Also known as `Gamekeeper`) trades items that are not
 | 22Rnd. 2A70 he mag. | 385 Coins | 195 Coins | 100mm HE | 22 | 2A70 |
 | 23Rnd. T72 SABOT mag. | 375 Coins | 185 Coins | 125mm SABOT | 23 | T72 |
 | 22Rnd. T72 HE mag. | 395 Coins | 195 Coins | 125mm HE | 22 | T72 |
-
-{.compact}
-| Name | Buy | Sell |
-| --- | --- | --- |
-| Satchel Charge | 7,000 Coins | 3,000 Coins |
-| M67 Frag Grenade | 400 Coins | 200 Coins |
-| RGO Frag Grenade | 400 Coins | 200 Coins |
-| Suitcase | 50,000 Coins | 5,000 Coins |
-| Toilet Paper | 50,000 Coins | 15,000 Coins |
-
-==- Vehicle Ammunition
-
-
 
 === Drugs
 
