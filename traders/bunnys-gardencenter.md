@@ -16,6 +16,16 @@ You'll need a humanity score of at least [!badge variant="primary" text="75,000"
 | Supply Crate (12x Potato Raw) | 1,600 Coins | 600 Coins | 12x Potato Raw |
 | Supply Crate (12x Garlic bulb) | 1,600 Coins | 600 Coins | 12x Garlic bulb |
 
+=== Comfrey/Pumpkin/SunFlower/BlackTea
+
+{.compact}
+| Name | Buy | Sell | Description |
+| --- | --- | --- | --- |
+| Bag of Comfrey Seeds | 1,000 Coins | 500 Coins | A few comfrey seeds. |
+| Bag of Pumpkin Seeds | 500 Coins | 250 Coins | A few pumpkin seeds. |
+| Bag of Sunflower Seeds | 500 Coins | 250 Coins | A few Sunflower seeds. |
+| Bag of Black Tea Seeds | 1,000 Coins | 500 Coins | A few black tea seeds. |
+
 === Garden Specials
 
 {.compact}
