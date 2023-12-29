@@ -4,6 +4,9 @@ order: 0
 icon: ":currency_exchange:"
 ---
 
+The `Currency` trader (Also known as `Functionary`) sells and buys all kinds of currency - he sells and buys most of them for the same price, the only exception is the `Suitcase with Diamonds`.
+He also acts a `Bank Teller` - as you can access the bank from talking to him.
+
 === Currency
 {.compact}
 | Name | Buy | Sell | Description |
