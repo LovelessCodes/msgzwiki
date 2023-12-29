@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757107515592">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757128467588">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -11,6 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Parts | M.S.G Wiki</title>
     <meta name="title" content="Parts | M.S.G Wiki">
+    <meta name="description" content="The Parts trader (Also known as Worker) trades items that are used for building bases, repairing and upgrading vehicles, as well as tools that are...">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://msgz.wiki/traders/parts/index.html">
@@ -19,21 +20,23 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://msgz.wiki/traders/parts/index.html">
     <meta property="og:title" content="Parts | M.S.G Wiki">
+    <meta property="og:description" content="The Parts trader (Also known as Worker) trades items that are used for building bases, repairing and upgrading vehicles, as well as tools that are...">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://msgz.wiki/traders/parts/index.html">
     <meta property="twitter:title" content="Parts | M.S.G Wiki">
+    <meta property="twitter:description" content="The Parts trader (Also known as Worker) trades items that are used for building bases, repairing and upgrading vehicles, as well as tools that are...">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.757107515592" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.757128467588" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757107515592" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757128467588" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.757107515592" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757107515592" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.757128467588" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757128467588" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -205,17 +208,292 @@
         <span>Parts</span>
     </h1>
 </doc-anchor-target>
+<p>The <code v-pre>Parts</code> trader (Also known as <code v-pre>Worker</code>) trades items that are used for building bases, repairing and upgrading vehicles, as well as tools that are used for a wide variety of actions.</p>
 <doc-panels>
    <doc-panel id="building-supplies">
        <template #title>Building Supplies</template>
    </doc-panel>
-   <doc-panel id="vehicle-parts" collapsed>
+   <doc-panel id="vehicle-parts">
        <template #title>Vehicle Parts</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Name</th>
+<th>Buy</th>
+<th>Sell</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scrap Metal</td>
+<td>100 Coins</td>
+<td>45 Coins</td>
+<td>Scrap metal and assorted mechanical spares. Useful for repairing vehicles and equipment.</td>
+</tr>
+<tr>
+<td>Car Wheel</td>
+<td>70 Coins</td>
+<td>20 Coins</td>
+<td>An old Car Wheel that could be used to repair a vehicle with a broken one.</td>
+</tr>
+<tr>
+<td>Windscreen Glass</td>
+<td>20 Coins</td>
+<td>10 Coins</td>
+<td>Brand new auto glass. Could be used to repair glass on a vehicle.</td>
+</tr>
+<tr>
+<td>Engine Parts</td>
+<td>200 Coins</td>
+<td>100 Coins</td>
+<td>Engine components with oil and lubricant. Everything you would need to repair an engine.</td>
+</tr>
+<tr>
+<td>Main Rotor Assembly</td>
+<td>200 Coins</td>
+<td>100 Coins</td>
+<td>Rotor Shaft Hydraulics for a helicopter. Can be used to replace broken rotor shafts in helicopters.</td>
+</tr>
+<tr>
+<td>Fueltank Parts</td>
+<td>100 Coins</td>
+<td>50 Coins</td>
+<td>An old fueldtank that could be used to repair a vehicle with a broken one.</td>
+</tr>
+<tr>
+<td>Fueltank 5L</td>
+<td>2 Coins</td>
+<td>1 Coin</td>
+<td>A small 5-liter can for gasoline.</td>
+</tr>
+<tr>
+<td>Fueltank 5L (empty)</td>
+<td>1 Coins</td>
+<td>1 Coin</td>
+<td>A small can for gasoline.</td>
+</tr>
+<tr>
+<td>Jerry Can 20L</td>
+<td>4 Coins</td>
+<td>2 Coin</td>
+<td>20 litre Jerry Can that can be used for refueling vehicles and powering generators.</td>
+</tr>
+<tr>
+<td>Jerry Can 20L (empty)</td>
+<td>2 Coins</td>
+<td>1 Coin</td>
+<td>An empty 20 litre Jerry Can that can be filled from cars or petrol stations.</td>
+</tr>
+<tr>
+<td>Fuel Barrel</td>
+<td>200 Coins</td>
+<td>100 Coin</td>
+<td>210 litres of fuel per barrel.</td>
+</tr>
+<tr>
+<td>Fuel Barrel (empty)</td>
+<td>100 Coins</td>
+<td>50 Coin</td>
+<td>Empty 210 litre fuel barrel.</td>
+</tr>
+</tbody>
+</table>
+</div>
    </doc-panel>
-   <doc-panel id="toolbelt-items" collapsed>
+   <doc-panel id="toolbelt-items">
        <template #title>Toolbelt Items</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Name</th>
+<th>Buy</th>
+<th>Sell</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Watch</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Compass</td>
+<td>6 Coins</td>
+<td>3 Coins</td>
+</tr>
+<tr>
+<td>Map</td>
+<td>6 Coins</td>
+<td>3 Coins</td>
+</tr>
+<tr>
+<td>GPS</td>
+<td>190 Coins</td>
+<td>100 Coins</td>
+</tr>
+<tr>
+<td>Radio</td>
+<td>250 Coins</td>
+<td>100 Coins</td>
+</tr>
+<tr>
+<td>Binoculars</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Rangefinder</td>
+<td>200 Coins</td>
+<td>100 Coins</td>
+</tr>
+<tr>
+<td>NV Goggles</td>
+<td>250 Coins</td>
+<td>100 Coins</td>
+</tr>
+<tr>
+<td>NVG (Full Screen)</td>
+<td>750 Coins</td>
+<td>300 Coins</td>
+</tr>
+<tr>
+<td>Flashlight</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Flashlight (Military)</td>
+<td>10,000 Coins</td>
+<td>3,000 Coins</td>
+</tr>
+<tr>
+<td>Box of Matches</td>
+<td>2,000 Coins</td>
+<td>1,000 Coins</td>
+</tr>
+<tr>
+<td>Entrenching Tool</td>
+<td>90 Coins</td>
+<td>60 Coins</td>
+</tr>
+<tr>
+<td>Shovel</td>
+<td>90 Coins</td>
+<td>60 Coins</td>
+</tr>
+<tr>
+<td>Hatchet</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Hunting Knife</td>
+<td>10,000 Coins</td>
+<td>500 Coins</td>
+</tr>
+<tr>
+<td>Toolbox</td>
+<td>2,000 Coins</td>
+<td>50 Coins</td>
+</tr>
+<tr>
+<td>Screwdriver Set</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Handsaw</td>
+<td>10,000 Coins</td>
+<td>2,000 Coins</td>
+</tr>
+<tr>
+<td>Hammer</td>
+<td>20,000 Coins</td>
+<td>5,000 Coins</td>
+</tr>
+<tr>
+<td>Wrench</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Crowbar</td>
+<td>5,000 Coins</td>
+<td>500 Coins</td>
+</tr>
+<tr>
+<td>Machete</td>
+<td>2 Coins</td>
+<td>1 Coins</td>
+</tr>
+<tr>
+<td>Fishing Pole</td>
+<td>40,000 Coins</td>
+<td>6,000 Coins</td>
+</tr>
+<tr>
+<td>Pickaxe</td>
+<td>10,000 Coins</td>
+<td>1,000 Coins</td>
+</tr>
+<tr>
+<td>SledgeHammer</td>
+<td>25,000 Coins</td>
+<td>5,000 Coins</td>
+</tr>
+<tr>
+<td>Keymakers kit</td>
+<td>100 Coins</td>
+<td>100 Coins</td>
+</tr>
+<tr>
+<td>Portable Solder</td>
+<td>600 Coins</td>
+<td>300 Coins</td>
+</tr>
+<tr>
+<td>Chainsaw (Orange)</td>
+<td>4,000 Coins</td>
+<td>1,000 Coins</td>
+</tr>
+<tr>
+<td>Chainsaw (Blue)</td>
+<td>4,000 Coins</td>
+<td>1,000 Coins</td>
+</tr>
+<tr>
+<td>Chainsaw (Green)</td>
+<td>4,000 Coins</td>
+<td>1,000 Coins</td>
+</tr>
+<tr>
+<td>Chainsaw (Purple)</td>
+<td>6,000 Coins</td>
+<td>2,000 Coins</td>
+</tr>
+<tr>
+<td>Chainsaw (Red)</td>
+<td>6,000 Coins</td>
+<td>2,000 Coins</td>
+</tr>
+<tr>
+<td>Electronics Manual</td>
+<td>250,000 Coins</td>
+<td>15,000 Coins</td>
+</tr>
+<tr>
+<td>Cobalt File</td>
+<td>500,000 Coins</td>
+<td>25,000 Coins</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>==-</p>
    </doc-panel>
-</doc-panels>
 
                                 
                                 <!-- Required only on API pages -->
