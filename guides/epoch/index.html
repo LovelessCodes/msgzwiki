@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757171195453">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.5.0">
+
+    <!-- Primary Meta Tags -->
+    <title>Epoch Guide | M.S.G Wiki</title>
+    <meta name="title" content="Epoch Guide | M.S.G Wiki">
+    <meta name="description" content="On M.S.G, you'll find yourself in a devastated landscape teeming with dangers, from zombies to bandits.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://msgz.wiki/guides/epoch/index.html">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://msgz.wiki/guides/epoch/index.html">
+    <meta property="og:title" content="Epoch Guide | M.S.G Wiki">
+    <meta property="og:description" content="On M.S.G, you'll find yourself in a devastated landscape teeming with dangers, from zombies to bandits.">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://msgz.wiki/guides/epoch/index.html">
+    <meta property="twitter:title" content="Epoch Guide | M.S.G Wiki">
+    <meta property="twitter:description" content="On M.S.G, you'll find yourself in a devastated landscape teeming with dangers, from zombies to bandits.">
+
+    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+
+    <link href="../../static/favicon.png" rel="icon">
+    <link href="../../resources/css/retype.css?v=3.5.0.757171195453" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757171195453" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/search.js?v=3.5.0.757171195453" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757171195453" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
+        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    
+        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="docs-sidebar-toggle"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="docs-site-logo" href="../../index.html" class="flex items-center leading-snug text-2xl">
+                            <span class="grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../../static/logo_2.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../../static/logo_1.png">
+                            </span>
+                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">Wiki</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://discord.gg/t7DcSvbwFt">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                        <g fill="currentColor">
+                                            <g fill="currentColor"><circle cx="9" cy="12" r="1.5" fill-opacity="0"><animate attributeName="fill-opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/></circle><circle cx="15" cy="12" r="1.5" fill-opacity="0"><animate attributeName="fill-opacity" values="0;1" begin="1.4s" dur="0.4s" fill="freeze"/></circle></g><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15.5 17.5L16.5 19.5C16.5 19.5 20.671 18.172 22 16C22 15 22.53 7.853 19 5.5C17.5 4.5 15 4 15 4L14 6H12M8.52799 17.5L7.52799 19.5C7.52799 19.5 3.35699 18.172 2.02799 16C2.02799 15 1.49799 7.853 5.02799 5.5C6.52799 4.5 9.02799 4 9.02799 4L10.028 6H12.028" stroke-dasharray="30" stroke-dashoffset="30"><animate attributeName="stroke-dashoffset" values="30;60" dur="0.6s" fill="freeze"/></path><path d="M5.5 16C10.5 18.5 13.5 18.5 18.5 16" stroke-dasharray="16" stroke-dashoffset="16"><animate attributeName="stroke-dashoffset" values="16;0" begin="0.7s" dur="0.4s" fill="freeze"/></path></g>
+                                        </g>
+                                    </svg>
+                                    <span>Discord</span>
+                                </a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://gtxgaming.co.uk/clientarea/index.php?m=public_pay&hash_id=DReo3dr6VXj7">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                        <g fill="currentColor">
+                                            <path fill="currentColor" fill-opacity="0" d="M12 20L20.5 11V7L17 5.5L12 7L7 5.5L3.5 7V11L12 20Z"><animate fill="freeze" attributeName="fill-opacity" begin="0.5s" dur="0.15s" values="0;0.3"/></path><path fill="none" stroke="currentColor" stroke-dasharray="30" stroke-dashoffset="30" stroke-linecap="round" stroke-width="2" d="M12 8C12 8 12 8 12.7578 7C13.6343 5.84335 14.9398 5 16.5 5C18.9853 5 21 7.01472 21 9.5C21 10.4251 20.7209 11.285 20.2422 12C19.435 13.206 12 21 12 21M12 8C12 8 12 8 11.2422 7C10.3657 5.84335 9.06021 5 7.5 5C5.01472 5 3 7.01472 3 9.5C3 10.4251 3.27914 11.285 3.75777 12C4.56504 13.206 12 21 12 21"><animate fill="freeze" attributeName="stroke-dashoffset" dur="0.5s" values="30;0"/></path>
+                                        </g>
+                                    </svg>
+                                    <span>Donate</span>
+                                </a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="docs-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+        <div class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            
+                <!-- Render this div, if config.showSidebarFilter is `true` -->
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://discord.gg/t7DcSvbwFt">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                <g fill="currentColor">
+                                                    <g fill="currentColor"><circle cx="9" cy="12" r="1.5" fill-opacity="0"><animate attributeName="fill-opacity" values="0;1" begin="1.2s" dur="0.4s" fill="freeze"/></circle><circle cx="15" cy="12" r="1.5" fill-opacity="0"><animate attributeName="fill-opacity" values="0;1" begin="1.4s" dur="0.4s" fill="freeze"/></circle></g><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15.5 17.5L16.5 19.5C16.5 19.5 20.671 18.172 22 16C22 15 22.53 7.853 19 5.5C17.5 4.5 15 4 15 4L14 6H12M8.52799 17.5L7.52799 19.5C7.52799 19.5 3.35699 18.172 2.02799 16C2.02799 15 1.49799 7.853 5.02799 5.5C6.52799 4.5 9.02799 4 9.02799 4L10.028 6H12.028" stroke-dasharray="30" stroke-dashoffset="30"><animate attributeName="stroke-dashoffset" values="30;60" dur="0.6s" fill="freeze"/></path><path d="M5.5 16C10.5 18.5 13.5 18.5 18.5 16" stroke-dasharray="16" stroke-dashoffset="16"><animate attributeName="stroke-dashoffset" values="16;0" begin="0.7s" dur="0.4s" fill="freeze"/></path></g>
+                                                </g>
+                                            </svg>
+                                            <span>Discord</span>
+                                        </a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="https://gtxgaming.co.uk/clientarea/index.php?m=public_pay&hash_id=DReo3dr6VXj7">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                <g fill="currentColor">
+                                                    <path fill="currentColor" fill-opacity="0" d="M12 20L20.5 11V7L17 5.5L12 7L7 5.5L3.5 7V11L12 20Z"><animate fill="freeze" attributeName="fill-opacity" begin="0.5s" dur="0.15s" values="0;0.3"/></path><path fill="none" stroke="currentColor" stroke-dasharray="30" stroke-dashoffset="30" stroke-linecap="round" stroke-width="2" d="M12 8C12 8 12 8 12.7578 7C13.6343 5.84335 14.9398 5 16.5 5C18.9853 5 21 7.01472 21 9.5C21 10.4251 20.7209 11.285 20.2422 12C19.435 13.206 12 21 12 21M12 8C12 8 12 8 11.2422 7C10.3657 5.84335 9.06021 5 7.5 5C5.01472 5 3 7.01472 3 9.5C3 10.4251 3.27914 11.285 3.75777 12C4.56504 13.206 12 21 12 21"><animate fill="freeze" attributeName="stroke-dashoffset" dur="0.5s" values="30;0"/></path>
+                                                </g>
+                                            </svg>
+                                            <span>Donate</span>
+                                        </a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 dark:bg-dark-850">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="docs-markdown" id="docs-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="docs-sidebar-right-toggle"></div>
+                                <!-- Page content  -->
+<doc-anchor-target id="epoch-guide" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#epoch-guide">#</doc-anchor-trigger>
+        <span>Epoch Guide</span>
+    </h1>
+</doc-anchor-target>
+<p>On M.S.G, you&#x27;ll find yourself in a devastated landscape teeming with dangers, from zombies to bandits. Your mission is simple yet daunting: survive, build, and thrive in a world where every decision could mean the difference between life and death.</p>
+<p>This guide covers everything from the basics of installation and controls to advanced survival tactics and base building. Whether you&#x27;re learning to scavenge for resources, engage in intense bandit battles, or collaborate with fellow survivors to construct a stronghold, we&#x27;ve got you covered.</p>
+<p>So gear up, stay alert, and prepare to delve into an experience where every heartbeat counts. Welcome to M.S.G - your adventure begins now.</p>
+<doc-anchor-target id="introduction-to-dayz-epoch">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#introduction-to-dayz-epoch">#</doc-anchor-trigger>
+        <span>Introduction to DayZ Epoch</span>
+    </h2>
+</doc-anchor-target>
+<!-- Brief explanation of DayZ Epoch as a mod for Arma 2. -->
+<!-- Overview of the game's setting and objectives. -->
+<p><strong>Welcome to the Harsh World of DayZ Epoch</strong></p>
+<p>DayZ Epoch is a modification of the popular military simulation game Arma 2, combined with its expansion pack, Arma 2: Operation Arrowhead. This mod transforms the original game into a post-apocalyptic world where survival is key, and every decision can have lasting consequences.</p>
+<p><strong>A Post-Apocalyptic Setting</strong></p>
+<p>In DayZ Epoch, you are thrust into a world ravaged by a mysterious zombie apocalypse. The landscape is dotted with remnants of a once-thriving civilization, now reduced to ruins and infested with dangers. This setting provides a unique blend of military simulation and survival horror, where scavenging and crafting are as vital as your shooting skills.</p>
+<p><strong>The Goal: Survive, Build, Thrive</strong></p>
+<p>The primary objective in DayZ Epoch is survival. You start with minimal equipment and must navigate a hostile environment filled with threats, including zombies, wildlife, and, most unpredictably, bandits. To survive, you will need to find or create shelter, scavenge for resources, and protect yourself from both the living and the undead.</p>
+<p>As you progress, the game evolves into more than just survival. You&#x27;ll have the opportunity to build bases, trade with other players, form alliances, and even engage in combat to protect your hard-earned resources. The dynamic social interactions in the game add a layer of complexity and excitement, making every encounter unpredictable.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li><strong>Dynamic Gameplay:</strong> Every playthrough is unique, with dynamic weather, day-night cycles, and a constantly changing environment.</li>
+<li><strong>Base Building:</strong> Construct and fortify bases to create a safe haven and store resources.</li>
+<li><strong>Resource Management:</strong> Manage hunger, thirst, and health while scavenging for supplies in a vast, open world.</li>
+<li><strong>Player Interactions:</strong> Encounter other players in a blend of cooperation and competition. Form alliances or rivalries that impact your gameplay experience.</li>
+<li><strong>Customization and Growth:</strong> Upgrade your equipment, vehicles, and bases as you progress through the game.</li>
+</ul>
+<p><strong>A Community-Driven Experience</strong></p>
+<p>DayZ Epoch is not just about individual survival; it&#x27;s about the community. Players often band together to form groups, contributing to a rich, player-driven narrative. Our server fosters this community spirit, encouraging cooperation, fair play, and engagement.</p>
+<p><strong>Prepare for the Unexpected</strong></p>
+<p>No two days are the same. Prepare for a thrilling adventure where your wits, skills, and adaptability will be tested. Whether you&#x27;re a seasoned Arma player or new to the genre, DayZ Epoch offers an unparalleled survival experience.</p>
+<doc-anchor-target id="server-rules-and-etiquette">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#server-rules-and-etiquette">#</doc-anchor-trigger>
+        <span>Server Rules and Etiquette</span>
+    </h2>
+</doc-anchor-target>
+<!-- Outline the specific rules of the server (e.g., no griefing, PvP zones). -->
+<!-- Explain the importance of community etiquette. -->
+<p>Here&#x27;s a brief overview of our server rules and etiquette. For the complete list, please refer to our full rules documentation.</p>
+<ol>
+<li><strong>PVE Focus</strong>: Our server is strictly PvE. No PvP actions are allowed except in self-defense.</li>
+<li><strong>Fair Play</strong>: No hacking, bug abuse, or exploiting game mechanics. We maintain a fair play environment.</li>
+<li><strong>Respectful Interaction</strong>: Limited trolling is allowed among friends, but respect towards all players is essential.</li>
+<li><strong>Mission and Combat Conduct</strong>: Respect claimed missions and follow specific guidelines for artillery usage and combat.</li>
+<li><strong>Building and Vehicle Rules</strong>: Adhere to specific building restrictions and vehicle usage guidelines.</li>
+<li><strong>Admin Authority</strong>: The decisions of server administrators are final. Respect their authority and follow their guidance.</li>
+<li><strong>Help and Support</strong>: For any assistance or rule clarification, reach out via <a href="https://discord.gg/t7DcSvbwFt">Discord</a>.</li>
+</ol>
+<p>Remember, these rules are in place to ensure a fun and fair gaming experience for everyone. Be sure to familiarize yourself with the detailed rules to fully enjoy your time on our server. Happy surviving!
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Server Rules</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../../rules/game/index.html</span>
+    </div>
+    <a href="../../rules/game/index.html" class="absolute block inset-0"></a>
+</div>
+</p>
+<doc-anchor-target id="installation-and-setup">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#installation-and-setup">#</doc-anchor-trigger>
+        <span>Installation and Setup</span>
+    </h2>
+</doc-anchor-target>
+<!-- Step-by-step guide on how to install Arma 2 and the DayZ Epoch mod. -->
+<!-- Instructions for connecting to the server. -->
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Minimum requirement is owning <a href="https://store.steampowered.com/sub/4639/">Arma 2: Combined Operations</a> on Steam</p>
+        </div>
+    </div>
+</div>
+<p>To get started, you&#x27;ll need to install <a href="https://store.steampowered.com/app/33900/">Arma 2</a>, <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a>, and the DayZ Epoch mod. Follow these steps to ensure a smooth setup:</p>
+<ol>
+<li><strong>Install <a href="https://store.steampowered.com/app/33900/">Arma 2</a> and <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a></strong>
+<ul>
+<li>Purchase and download <a href="https://store.steampowered.com/app/33900/">Arma 2</a> and <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a> from Steam. Make sure both games are installed in the same directory.</li>
+<li>Run both <a href="https://store.steampowered.com/app/33900/">Arma 2</a> and <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a> at least once before installing the mod.</li>
+</ul>
+</li>
+</ol>
+<doc-tabs>
+<doc-tab v-cloak id="manual">
+<template #title>Manual</template>
+<ol start="2">
+<li><strong>Verify Files and Game Integrity</strong>
+<ul>
+<li>If you&#x27;re using Steam, verify the integrity of the game files for both <a href="https://store.steampowered.com/app/33900/">Arma 2</a> and <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a>. This can be done by right-clicking on each game in your Steam library, selecting &#x27;Properties&#x27;, going to the &#x27;Local Files&#x27; tab, and clicking &#x27;Verify Integrity of Game Files&#x27;.</li>
+</ul>
+</li>
+<li><strong>Configure Launch Options</strong>
+<ul>
+<li>Set up your <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a> launch options to include the mod. In Steam, right-click on the game, select &#x27;Properties&#x27;, go to &#x27;Set Launch Options&#x27;, and enter <code v-pre>-mod=@DayZ_Epoch</code>.</li>
+</ul>
+</li>
+<li><strong>Connecting to the Server</strong>
+<ul>
+<li>Launch <a href="https://store.steampowered.com/app/33930/">Arma 2: Operation Arrowhead</a> from Steam with the modified launch options.</li>
+<li>From the game&#x27;s main menu, select &#x27;Multiplayer&#x27;, then &#x27;Filter&#x27;, and enter <code v-pre>M.S.G</code>. Choose our server from the list and connect.</li>
+</ul>
+</li>
+<li><strong>First-Time Setup</strong>
+<ul>
+<li>The first time you join the server, there may be additional downloads and installations of server-specific mods or updates. Follow any on-screen instructions.</li>
+</ul>
+</li>
+<li><strong>Troubleshooting</strong>
+<ul>
+<li>If you encounter issues, check the game&#x27;s official forums or our server&#x27;s <a href="https://discord.gg/t7DcSvbwFt">Discord</a> for troubleshooting tips and support.</li>
+</ul>
+</li>
+<li><strong>Join Our Community</strong>
+<ul>
+<li>Once you&#x27;re set up, don&#x27;t forget to join our server&#x27;s <a href="https://discord.gg/t7DcSvbwFt">Discord</a> channel for the latest news, updates, and to connect with other players.</li>
+</ul>
+</li>
+</ol>
+</doc-tab>
+<doc-tab v-cloak id="dayz-launcher">
+<template #title>DayZ Launcher</template>
+<ol start="2">
+<li><strong>Download and Install DayZ Epoch Mod</strong>
+<ul>
+<li>Visit the official <a href="https://dayzlauncher.com">DayZ Launcher</a> website and download the installer.</li>
+<li>Run the installer and follow the on-screen instructions to install <a href="https://dayzlauncher.com">DayZ Launcher</a> on your computer.</li>
+</ul>
+</li>
+<li><strong>Configure DayZ Launcher for Epoch Mod</strong>
+<ul>
+<li>Open <a href="https://dayzlauncher.com">DayZ Launcher</a> and go to the &#x27;Mods&#x27; tab.</li>
+<li>Look for the DayZ Epoch mod in the list. If it&#x27;s not listed, use the search feature to find it.</li>
+<li>Click &#x27;Install&#x27; next to the DayZ Epoch mod. The launcher will automatically download and install the mod.</li>
+</ul>
+</li>
+<li><strong>Verify and Update Mods</strong>
+<ul>
+<li>In the <a href="https://dayzlauncher.com">DayZ Launcher</a>, ensure that the mods (including DayZ Epoch) are up to date. The launcher should indicate if any updates are available.</li>
+</ul>
+</li>
+<li><strong>Connecting to the Server</strong>
+<ul>
+<li>Switch to the &#x27;Servers&#x27; tab in the <a href="https://dayzlauncher.com">DayZ Launcher</a>.</li>
+<li>Use the filter options to find our server by name, <code v-pre>M.S.G</code>. You can also sort servers by mods, ping, and other criteria.</li>
+<li>Once you find our server, click &#x27;Join&#x27;. The launcher will automatically handle any additional mod requirements specific to our server.</li>
+</ul>
+</li>
+<li><strong>First-Time Setup</strong>
+<ul>
+<li>The first time you join, the server might prompt additional mod downloads or updates. The <a href="https://dayzlauncher.com">DayZ Launcher</a> will manage these automatically.</li>
+</ul>
+</li>
+<li><strong>Troubleshooting</strong>
+<ul>
+<li>If you encounter any issues during installation or connection, the <a href="https://dayzlauncher.com">DayZ Launcher</a> has a &#x27;Verify&#x27; option in the mods tab to check for corrupted or missing files.</li>
+<li>For further assistance, check the game&#x27;s official forums or our server&#x27;s <a href="https://discord.gg/t7DcSvbwFt">Discord</a> for troubleshooting tips and support.</li>
+</ul>
+</li>
+<li><strong>Join Our Community</strong>
+<ul>
+<li>Once you&#x27;re set up, don&#x27;t forget to join our server&#x27;s <a href="https://discord.gg/t7DcSvbwFt">Discord</a> channel for the latest news, updates, and to connect with other players.</li>
+</ul>
+</li>
+</ol>
+</doc-tab>
+</doc-tabs>
+<p>We&#x27;re excited to have you join our community! If you have any questions or need assistance during the installation process, our team is here to help. Happy surviving!</p>
+<doc-anchor-target id="basic-controls-and-user-interface">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#basic-controls-and-user-interface">#</doc-anchor-trigger>
+        <span>Basic Controls and User Interface</span>
+    </h2>
+</doc-anchor-target>
+<!-- Overview of key controls for movement, combat, and interaction. -->
+<!-- Introduction to the user interface elements like inventory, health, and map. -->
+<p>This section will guide you through the basic controls and user interface elements, helping you navigate and survive in the game&#x27;s challenging environment.</p>
+<doc-anchor-target id="basic-controls">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#basic-controls">#</doc-anchor-trigger>
+        <span>Basic Controls</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Movement</strong>
+<ul>
+<li><strong>W/A/S/D</strong>: Move forward, left, backward, and right.</li>
+<li><strong>Shift</strong>: Sprint.</li>
+<li><strong>Space</strong>: Jump/Step over.</li>
+<li><strong>V</strong>: Vault over obstacles.</li>
+<li><strong>Z</strong>: Prone position.</li>
+<li><strong>X</strong>: Crouch.</li>
+<li><strong>C</strong>: Stand up.</li>
+</ul>
+</li>
+<li><strong>Interaction</strong>
+<ul>
+<li><strong>Mouse Scroll</strong>: Access interaction menu for specific actions.</li>
+<li><strong>Left Mouse Button</strong>: Fire weapon or use item.</li>
+<li><strong>Right Mouse Button</strong>: Aim down sights or scope.</li>
+<li><strong>R</strong>: Reload weapon.</li>
+</ul>
+</li>
+<li><strong>Inventory and Equipment</strong>
+<ul>
+<li><strong>G</strong>: Open inventory.</li>
+<li><strong>Double Click Item</strong>: Equip or transfer item.
+<ul>
+<li>Doing this on backpacks will open them.</li>
+</ul>
+</li>
+<li><strong>Right-Click Item</strong>: Access item-specific actions.</li>
+</ul>
+</li>
+<li><strong>Communication</strong>
+<ul>
+<li><strong>Caps Lock</strong>: Push-to-talk voice chat.
+<ul>
+<li>Not allowed in <code v-pre>Side channel</code> (All chat) on the server.</li>
+</ul>
+</li>
+<li><strong>&quot;/&quot; Key</strong>: Open text chat.</li>
+<li><strong>&quot;.&quot; Key</strong>: Next channel.</li>
+<li><strong>&quot;,&quot; Key</strong>: Previous channel.</li>
+</ul>
+</li>
+<li><strong>View and Awareness</strong>
+<ul>
+<li><strong>Alt Key (Hold)</strong>: Free look without changing movement direction.</li>
+<li><strong>Alt Key (Double click)</strong>: Free look toggle.</li>
+<li><strong>NumPad Keys</strong>: Look around and zoom in/out (if applicable).</li>
+</ul>
+</li>
+<li><strong>Map and Navigation</strong>
+<ul>
+<li><strong>M Key</strong>: Open map (if available).</li>
+<li><strong>Shift + Left Click on Map</strong>: Place a personal waypoint.</li>
+<li><strong>Double Left Click on Map</strong>: Place a public marker.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="user-interface-elements">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#user-interface-elements">#</doc-anchor-trigger>
+        <span>User Interface Elements</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Health and Status Indicators</strong>
+<ul>
+<li>Located on the bottom right, showing health, blood, hunger, thirst, temperature and combat status.</li>
+</ul>
+</li>
+<li><strong>Inventory Screen</strong>
+<ul>
+<li>Displays your gear, weapons, and items. Also shows backpack contents and available space.</li>
+</ul>
+</li>
+<li><strong>Action Menu</strong>
+<ul>
+<li>Accessed via mouse scroll. Shows context-sensitive actions like picking up items, entering vehicles, or interacting with the environment.</li>
+</ul>
+</li>
+<li><strong>Weapon and Ammo Information</strong>
+<ul>
+<li>Located at the top right, indicating the current weapon, ammunition count, and firing mode.</li>
+</ul>
+</li>
+<li><strong>Server Information</strong>
+<ul>
+<li>Usually found on the right side of the screen, displaying server name, player count, and other relevant info.</li>
+</ul>
+</li>
+</ol>
+<p>Remember, mastering these controls and understanding the UI are crucial for survival. With practice, navigating the game will become second nature. Keep this guide handy as you familiarize yourself with the game&#x27;s mechanics, and don&#x27;t hesitate to refer back to it as needed. Happy surviving!</p>
+<doc-anchor-target id="survival-basics">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#survival-basics">#</doc-anchor-trigger>
+        <span>Survival Basics</span>
+    </h2>
+</doc-anchor-target>
+<!-- Tips for finding food, water, and shelter. -->
+<!-- Information on health, sickness, and healing. -->
+<p>Surviving requires knowledge, skill, and a keen sense of awareness. This section covers the fundamental aspects of survival to help you navigate the initial challenges and set the foundation for your long-term survival.</p>
+<doc-anchor-target id="finding-resources">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#finding-resources">#</doc-anchor-trigger>
+        <span>Finding Resources</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Scavenging for Supplies</strong>
+<ul>
+<li>Search buildings, abandoned vehicles, and supply drops for essential items like food, water, weapons, and medical supplies.</li>
+<li>Keep an eye out for backpacks, which can increase your inventory space.</li>
+</ul>
+</li>
+<li><strong>Water and Food</strong>
+<ul>
+<li>Locate water sources like wells, ponds, or water bottles to stay hydrated.</li>
+<li>Hunt animals, find canned food, or scavenge for edibles in towns and cities. Cooking food increases its nutritional value.</li>
+</ul>
+</li>
+<li><strong>Health and Healing</strong>
+<ul>
+<li>Monitor your health status regularly. Look for medical supplies like bandages, blood bags, and antibiotics.</li>
+<li>Injuries require immediate attention.
+<ul>
+<li>Bandages stop bleeding.</li>
+<li>Splinters fixes broken legs.</li>
+<li>While painkillers and morphine can be used for specific injuries.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="combat-and-defense">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#combat-and-defense">#</doc-anchor-trigger>
+        <span>Combat and Defense</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Avoiding Conflict</strong>
+<ul>
+<li>Stealth is often better than confrontation. Avoid zombies and hostile bandits when possible.</li>
+<li>Move quietly and use the terrain to your advantage.</li>
+</ul>
+</li>
+<li><strong>Self-Defense</strong>
+<ul>
+<li>When combat is unavoidable, use cover and aim for headshots to conserve ammunition.</li>
+<li>Melee weapons can be effective against zombies and conserve ammo.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="crafting-and-building">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#crafting-and-building">#</doc-anchor-trigger>
+        <span>Crafting and Building</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Basic Crafting</strong>
+<ul>
+<li>Collect materials to craft basic items like bandages.</li>
+</ul>
+</li>
+<li><strong>Building a Base</strong>
+<ul>
+<li>As you gather more resources, consider building a more permanent base for storage, protection, and crafting.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="navigation-and-exploration">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#navigation-and-exploration">#</doc-anchor-trigger>
+        <span>Navigation and Exploration</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Using the Map</strong>
+<ul>
+<li>Familiarize yourself with the map and use landmarks to navigate.</li>
+</ul>
+</li>
+<li><strong>Exploring Safely</strong>
+<ul>
+<li>Plan your routes to avoid high-risk areas when you&#x27;re not prepared.</li>
+<li>Always have an exit strategy in case you encounter danger.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="community-interaction">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#community-interaction">#</doc-anchor-trigger>
+        <span>Community Interaction</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Trading and Alliances</strong>
+<ul>
+<li>Engage with other players cautiously. Trading can be beneficial, but not everyone is friendly.</li>
+<li>Forming alliances can provide safety in numbers and shared resources.</li>
+</ul>
+</li>
+<li><strong>Server-Specific Features</strong>
+<ul>
+<li>Be aware of any server-specific features or events that can affect survival.</li>
+<li>Take a look at the <a href="../../addons/index.html">addons</a> site to get a feeling of which features and events are on the server.</li>
+</ul>
+</li>
+</ol>
+<p>Survival is a constant challenge. Every day brings new threats and opportunities. Adaptability, resourcefulness, and a keen understanding of these survival basics will increase your chances of thriving in this unforgiving world. Remember, every decision counts, and even small victories can lead to great rewards. Stay alert, stay alive, and good luck!</p>
+<doc-anchor-target id="looting-and-equipment">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#looting-and-equipment">#</doc-anchor-trigger>
+        <span>Looting and Equipment</span>
+    </h2>
+</doc-anchor-target>
+<!-- Guide to looting strategies and locations. -->
+<!-- Overview of essential equipment and how to use it. -->
+<doc-anchor-target id="base-building-and-crafting">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#base-building-and-crafting">#</doc-anchor-trigger>
+        <span>Base Building and Crafting</span>
+    </h2>
+</doc-anchor-target>
+<!-- Instructions on how to build and fortify bases. -->
+<!-- Crafting recipes and resources. -->
+<p>Building a base and crafting items are key components that significantly enhance your survival experience. This section covers the essentials of constructing a safe haven and creating useful items.</p>
+<doc-anchor-target id="base-building">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#base-building">#</doc-anchor-trigger>
+        <span>Base Building</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Choosing a Location</strong>
+<ul>
+<li>Select a strategic location for your base. Consider factors like resource accessibility, tactical advantage, and concealment.</li>
+<li>Avoid building too close to high-traffic areas to minimize the risk of raids.</li>
+</ul>
+</li>
+<li><strong>Gathering Materials</strong>
+<ul>
+<li>Collect building materials such as wood, metal, and tools. These can be found, scavenged, or crafted.</li>
+<li>Vehicles can be used to transport larger quantities of materials.</li>
+</ul>
+</li>
+<li><strong>Constructing Your Base</strong>
+<ul>
+<li>Use the crafting menu to select and place structures like walls, gates, and towers.</li>
+<li>Ensure your base has basic amenities like storage containers, sleeping areas, and crafting stations.</li>
+<li>Secure your base with locks and defensive positions.</li>
+</ul>
+</li>
+<li><strong>Base Maintenance</strong>
+<ul>
+<li>Regularly maintain and upgrade your base to ensure its durability against attacks and decay.</li>
+<li>Check for any weak points or potential entry points for intruders.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="crafting">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#crafting">#</doc-anchor-trigger>
+        <span>Crafting</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Crafting Basics</strong>
+<ul>
+<li>Access the crafting menu to view available recipes and required materials.</li>
+<li>Commonly crafted items include bandages, basic tools, weapons, and ammo.</li>
+</ul>
+</li>
+<li><strong>Advanced Crafting</strong>
+<ul>
+<li>As you progress, you&#x27;ll unlock advanced crafting options for better equipment and fortifications.</li>
+<li>Experiment with different combinations of materials to discover new recipes.</li>
+</ul>
+</li>
+<li><strong>Resource Management</strong>
+<ul>
+<li>Efficiently manage your resources. Balance the need for immediate items against saving materials for larger, more beneficial projects.</li>
+</ul>
+</li>
+<li><strong>Collaborative Crafting and Building</strong>
+<ul>
+<li>Work with other players to gather resources and build larger, more secure bases.</li>
+<li>Share skills and resources to craft items that benefit the entire group.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="tips-for-effective-base-building-and-crafting">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tips-for-effective-base-building-and-crafting">#</doc-anchor-trigger>
+        <span>Tips for Effective Base Building and Crafting</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Plan Ahead</strong>
+<ul>
+<li>Have a clear idea of what you want to build or craft before you start. This helps in gathering the right materials and managing your time effectively.</li>
+</ul>
+</li>
+<li><strong>Stay Adaptable</strong>
+<ul>
+<li>Be prepared to modify your plans as new needs or opportunities arise.</li>
+</ul>
+</li>
+<li><strong>Security Consciousness</strong>
+<ul>
+<li>Always prioritize the security of your base and crafted items. This includes safe storage of valuables and robust defenses.</li>
+</ul>
+</li>
+<li><strong>Community Involvement</strong>
+<ul>
+<li>Engage with the server community. They can offer advice, trade materials, or even join forces for larger projects.</li>
+</ul>
+</li>
+</ol>
+<p>Base building and crafting in DayZ Epoch are not just about survival; they&#x27;re about making a mark in the game world. Your base is a sanctuary and a testament to your effort and skill. Crafting allows you to tailor your equipment to your playstyle. Both add depth and personalization to your DayZ Epoch experience, making each session unique and rewarding.</p>
+<doc-anchor-target id="combat-and-player-interaction">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#combat-and-player-interaction">#</doc-anchor-trigger>
+        <span>Combat and Player interaction</span>
+    </h2>
+</doc-anchor-target>
+<!-- Basic combat tips and Mission strategies. -->
+<!-- Information on player interaction, trading, and forming alliances. -->
+<p>Understanding combat tactics and navigating player interactions are crucial for survival. This section provides guidance on both combat strategies and the nuances of engaging with other players.</p>
+<doc-anchor-target id="combat-basics">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#combat-basics">#</doc-anchor-trigger>
+        <span>Combat Basics</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Understanding Weapons</strong>
+<ul>
+<li>Familiarize yourself with the various weapons at your disposal, including their effective ranges, recoil patterns, and ammunition types.</li>
+<li>Practice with different weapons to understand their strengths and weaknesses.</li>
+</ul>
+</li>
+<li><strong>Engagement Tactics</strong>
+<ul>
+<li>Use stealth and surprise to your advantage. Avoid unnecessary confrontations.</li>
+<li>In combat, use cover effectively and be aware of your surroundings.</li>
+</ul>
+</li>
+<li><strong>Aiming and Shooting</strong>
+<ul>
+<li>Aim for vital areas for maximum damage. Headshots are usually lethal.</li>
+<li>Practice shooting to improve accuracy, especially while moving.</li>
+</ul>
+</li>
+<li><strong>Situational Awareness</strong>
+<ul>
+<li>Constantly assess your environment. Listen for enemy movements, gunfire, or other telltale signs.</li>
+<li>Use binoculars or scopes to scout areas before advancing.</li>
+</ul>
+</li>
+<li><strong>Health and Healing in Combat</strong>
+<ul>
+<li>Carry medical supplies at all times. Quickly address injuries to avoid bleeding out or succumbing to shock.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="player-interaction">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#player-interaction">#</doc-anchor-trigger>
+        <span>Player Interaction</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Communication</strong>
+<ul>
+<li>Use voice or text chat to communicate with other players. Be clear and concise in your messages.</li>
+<li>Non-verbal communication, like gestures, can also be effective.</li>
+</ul>
+</li>
+<li><strong>Forming Alliances</strong>
+<ul>
+<li>Teaming up with other players can enhance your survival chances. Share resources, information, and skills.</li>
+<li>Be cautious when forming new alliances; not all players have friendly intentions.</li>
+</ul>
+</li>
+<li><strong>Trading</strong>
+<ul>
+<li>Trading with other players can be a safe way to acquire needed items. Establish clear terms and trade in safe zones if possible.</li>
+<li>Be wary of potential scams or ambushes during trades.</li>
+</ul>
+</li>
+<li><strong>Server Culture and Etiquette</strong>
+<ul>
+<li>Every server has its culture. Respect the norms and unwritten <a href="../../rules/game/index.html">rules of the server</a> you are playing on.</li>
+<li>Engage in a way that contributes positively to the server community.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="combat-and-interaction-tips">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#combat-and-interaction-tips">#</doc-anchor-trigger>
+        <span>Combat and Interaction Tips</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Practice Makes Perfect</strong>
+<ul>
+<li>Regularly engage in combat situations to refine your skills.</li>
+<li>Participate in Bandit events if available to gain experience.</li>
+</ul>
+</li>
+<li><strong>Balance Aggression with Caution</strong>
+<ul>
+<li>Know when to be aggressive and when to be cautious. Over-aggression can lead to unnecessary risks, while excessive caution may cause missed opportunities.</li>
+</ul>
+</li>
+<li><strong>Use the Environment</strong>
+<ul>
+<li>Utilize environmental features for cover, concealment, and strategic advantage.</li>
+</ul>
+</li>
+<li><strong>Learn from Each Encounter</strong>
+<ul>
+<li>Every interaction, whether peaceful or hostile, is a learning opportunity. Reflect on what worked and what didn’t.</li>
+</ul>
+</li>
+<li><strong>Stay Adaptable</strong>
+<ul>
+<li>Be ready to switch tactics based on the situation. Flexibility can be the key to survival.</li>
+</ul>
+</li>
+</ol>
+<p>Combat and player interactions are dynamic and can be unpredictable. Understanding these aspects and how to navigate them effectively can greatly enhance your gameplay experience. Whether you choose the path of a lone wolf or a cooperative survivor, your actions and decisions will shape your journey in this post-apocalyptic world.</p>
+<doc-anchor-target id="vehicles-and-transportation">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#vehicles-and-transportation">#</doc-anchor-trigger>
+        <span>Vehicles and Transportation</span>
+    </h2>
+</doc-anchor-target>
+<!-- Guide to finding, repairing, and using vehicles. -->
+<!-- Overview of the map and key transportation routes. -->
+<p>Navigating the vast landscape of DayZ Epoch often requires the use of vehicles and understanding transportation dynamics. This section delves into acquiring, maintaining, and effectively utilizing vehicles for survival and exploration.</p>
+<doc-anchor-target id="finding-and-acquiring-vehicles">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#finding-and-acquiring-vehicles">#</doc-anchor-trigger>
+        <span>Finding and Acquiring Vehicles</span>
+    </h4>
+</doc-anchor-target>
+<ol>
+<li><strong>Locating Vehicles</strong>
+<ul>
+<li>Vehicles can be found scattered across the map, in towns, military bases, and sometimes in hidden locations.</li>
+<li>Keep an eye out for abandoned vehicles, but be cautious as they might attract bandits or zombies.</li>
+</ul>
+</li>
+<li><strong>Vehicle Types</strong>
+<ul>
+<li>The game features a variety of vehicles, including cars, trucks, helicopters, and boats, each with unique advantages and limitations.</li>
+<li>Consider the purpose of the vehicle (transportation, storage, combat) when choosing one to acquire.</li>
+</ul>
+</li>
+<li><strong>Vehicle Condition and Repair</strong>
+<ul>
+<li>Most found vehicles will require some form of repair. Look for parts like wheels, engines, and fuel.</li>
+<li>Carry basic repair tools and spare parts if you plan to use vehicles extensively.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="using-vehicles">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#using-vehicles">#</doc-anchor-trigger>
+        <span>Using Vehicles</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Driving and Navigation</strong>
+<ul>
+<li>Familiarize yourself with the vehicle controls and handling characteristics.</li>
+<li>Use the in-game map and GPS for navigation. Marking destinations and waypoints can help in planning your route.</li>
+</ul>
+</li>
+<li><strong>Fuel Management</strong>
+<ul>
+<li>Keep an eye on fuel levels. Gas stations can be used to refuel, but they might be risky due to player activity.</li>
+<li>Store extra fuel in jerry cans within your vehicle for emergencies.</li>
+</ul>
+</li>
+<li><strong>Storage Capacity</strong>
+<ul>
+<li>Vehicles provide additional storage space, which is invaluable for transporting loot, equipment, and resources.</li>
+<li>Organize your vehicle&#x27;s inventory to maximize space and efficiency.</li>
+</ul>
+</li>
+<li><strong>Tactical Use of Vehicles</strong>
+<ul>
+<li>Vehicles can be used tactically for quick escapes, flanking maneuvers, or as mobile cover in combat situations.</li>
+<li>However, be aware that vehicles can draw attention due to noise and visibility.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="vehicle-safety-and-etiquette">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#vehicle-safety-and-etiquette">#</doc-anchor-trigger>
+        <span>Vehicle Safety and Etiquette</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Parking and Hiding Vehicles</strong>
+<ul>
+<li>When not in use, park your vehicle in a concealed location to prevent theft or damage.</li>
+<li>Consider building a garage or designated parking area in your base for better protection.</li>
+</ul>
+</li>
+<li><strong>Server-Specific Vehicle Rules</strong>
+<ul>
+<li>Familiarize yourself with any server-specific rules regarding vehicle use, such as safe zones or restrictions on certain vehicle types.</li>
+</ul>
+</li>
+<li><strong>Respecting Other Players&#x27; Vehicles</strong>
+<ul>
+<li>On PvE servers, respect other players&#x27; vehicles. Avoid stealing or damaging vehicles that are not abandoned.</li>
+</ul>
+</li>
+</ol>
+<doc-anchor-target id="maintenance-and-upkeep">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#maintenance-and-upkeep">#</doc-anchor-trigger>
+        <span>Maintenance and Upkeep</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Regular Check-Ups</strong>
+<ul>
+<li>Periodically check your vehicle for damage and perform necessary repairs.</li>
+<li>Monitor the vehicle&#x27;s general condition, including fuel and tire wear.</li>
+</ul>
+</li>
+<li><strong>Vehicle Customization</strong>
+<ul>
+<li>Some servers allow customization of vehicles, such as armor upgrades, paint jobs, or additional storage.</li>
+</ul>
+</li>
+</ol>
+<p>Vehicles are not just a means of transportation; they are a valuable asset for survival, providing mobility, storage, and tactical advantages. Proper use and maintenance of vehicles can significantly enhance your gameplay experience. Whether you&#x27;re making a quick supply run, relocating your base, or exploring uncharted territories, mastering the art of vehicular travel is a critical skill.</p>
+<doc-anchor-target id="conclusion-and-additional-resources">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#conclusion-and-additional-resources">#</doc-anchor-trigger>
+        <span>Conclusion and Additional Resources</span>
+    </h2>
+</doc-anchor-target>
+<!-- Final tips for beginners. -->
+<!-- Links to further reading, community guides, and forums. -->
+<p>We&#x27;ve got numerous guides, including ones specifically for our server - since we&#x27;ve got some custom <a href="../../addons/index.html">addons</a> installed, that can&#x27;t be gotten anywhere else, developed by our very own <a href="../../staff/index.html" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-500 dark:text-blue-400 border border-blue-500 dark:border-blue-400 hover:bg-blue-100 dark:hover:bg-transparent dark:hover:border-blue-200 dark:hover:text-blue-200 transition-colors duration-200 ease-out h-6 px-2 text-xs">
+    <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path fill="currentColor" d="M19.27 5.33C17.94 4.71 16.5 4.26 15 4a.09.09 0 0 0-.07.03c-.18.33-.39.76-.53 1.09a16.09 16.09 0 0 0-4.8 0c-.14-.34-.35-.76-.54-1.09c-.01-.02-.04-.03-.07-.03c-1.5.26-2.93.71-4.27 1.33c-.01 0-.02.01-.03.02c-2.72 4.07-3.47 8.03-3.1 11.95c0 .02.01.04.03.05c1.8 1.32 3.53 2.12 5.24 2.65c.03.01.06 0 .07-.02c.4-.55.76-1.13 1.07-1.74c.02-.04 0-.08-.04-.09c-.57-.22-1.11-.48-1.64-.78c-.04-.02-.04-.08-.01-.11c.11-.08.22-.17.33-.25c.02-.02.05-.02.07-.01c3.44 1.57 7.15 1.57 10.55 0c.02-.01.05-.01.07.01c.11.09.22.17.33.26c.04.03.04.09-.01.11c-.52.31-1.07.56-1.64.78c-.04.01-.05.06-.04.09c.32.61.68 1.19 1.07 1.74c.03.01.06.02.09.01c1.72-.53 3.45-1.33 5.25-2.65c.02-.01.03-.03.03-.05c.44-4.53-.73-8.46-3.1-11.95c-.01-.01-.02-.02-.04-.02M8.52 14.91c-1.03 0-1.89-.95-1.89-2.12s.84-2.12 1.89-2.12c1.06 0 1.9.96 1.89 2.12c0 1.17-.84 2.12-1.89 2.12m6.97 0c-1.03 0-1.89-.95-1.89-2.12s.84-2.12 1.89-2.12c1.06 0 1.9.96 1.89 2.12c0 1.17-.83 2.12-1.89 2.12"/></g></svg></span>
+    <span>gnominger</span>
+</a>.</p>
+<p>One of our guides, that stands out from other sites, is our <a href="../better-textures/index.html">Better Textures</a> guide - written by <span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
+    <span>Break</span>
+</span> and extended by <span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-red-600 bg-red-100 h-6 px-2 text-xs rounded-md">
+    <span>Loveless</span>
+</span>.</p>
+<p>Go over to our <a href="../index.html">Guides</a> page, to have a look at what we&#x27;ve got to offer.<br />
+We expand our guides all the time, in the hopes that players can have a confortable place to get all their knowledge.</p>
+<p>
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Guides</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../index.html</span>
+    </div>
+    <a href="../index.html" class="absolute block inset-0"></a>
+</div>
+</p>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer class="clear-both">
+                                <div class="flex flex-wrap items-center justify-between mt-14">
+                                    <a class="my-2.5 inline-flex items-center text-sm whitespace-nowrap text-blue-500 dark:text-blue-400 hover:text-blue-700 hover:underline" href="https://github.com/LovelessCodes/msgzwiki/blob/master/guides/epoch.md" target="_blank" rel="noopener">
+                                        <svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M20 12c-.55 0-1 .45-1 1v7c0 .55-.45 1-1 1H4c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h7c.55 0 1-.45 1-1s-.45-1-1-1H4C2.35 3 1 4.35 1 6v14c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-7c0-.55-.45-1-1-1z" /><path d="M22.21 1.79c-1.18-1.18-3.24-1.18-4.41 0l-9.5 9.5c-.13.13-.22.29-.26.46l-1 4c-.08.34.01.7.26.95.18.2.44.3.7.3.08 0 .16-.01.24-.03l4-1c.18-.04.34-.13.46-.26l9.5-9.5c1.22-1.22 1.22-3.2.01-4.42zm-1.42 3l-9.3 9.3-2.11.53.53-2.11 9.3-9.3c.42-.42 1.16-.42 1.59 0 .43.43.43 1.15-.01 1.58z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        <span>Edit on GitHub</span>
+                                    </a>
+                                </div>
+                            
+                                <nav class="flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../guides/index.html">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block mt-1">Guides</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../guides/getting-started/index.html">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block mt-1">Getting Started</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between">
+                                <div>
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2023. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="docs-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Epoch Guide", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>
