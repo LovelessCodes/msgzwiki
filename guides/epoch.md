@@ -73,24 +73,26 @@ To get started, you'll need to install [Arma 2](https://store.steampowered.com/a
     - Run both [Arma 2](https://store.steampowered.com/app/33900/) and [Arma 2: Operation Arrowhead](https://store.steampowered.com/app/33930/) at least once before installing the mod.
 
 +++ Manual
-
-2. **Verify Files and Game Integrity**
+2. **Download and Install DayZ Epoch Mod**
+    - Visit the official [DayZ Epoch website](https://epochmod.com/a2dayzepoch.php) or a trusted mod distribution site to download the latest version of the DayZ Epoch mod.
+    - Extract the downloaded files to your Arma 2 Operation Arrowhead directory. This directory is typically located at `C:\Program Files (x86)\Steam\steamapps\common\Arma 2 Operation Arrowhead`.
+1. **Verify Files and Game Integrity**
     - If you're using Steam, verify the integrity of the game files for both [Arma 2](https://store.steampowered.com/app/33900/) and [Arma 2: Operation Arrowhead](https://store.steampowered.com/app/33930/). This can be done by right-clicking on each game in your Steam library, selecting 'Properties', going to the 'Local Files' tab, and clicking 'Verify Integrity of Game Files'.
-3. **Configure Launch Options**
+2. **Configure Launch Options**
     - Set up your [Arma 2: Operation Arrowhead](https://store.steampowered.com/app/33930/) launch options to include the mod. In Steam, right-click on the game, select 'Properties', go to 'Set Launch Options', and enter `-mod=@DayZ_Epoch`.
-4. **Connecting to the Server**
+3. **Connecting to the Server**
     - Launch [Arma 2: Operation Arrowhead](https://store.steampowered.com/app/33930/) from Steam with the modified launch options.
     - From the game's main menu, select 'Multiplayer', then 'Filter', and enter `M.S.G`. Choose our server from the list and connect.
-5. **First-Time Setup**
+4. **First-Time Setup**
     - The first time you join the server, there may be additional downloads and installations of server-specific mods or updates. Follow any on-screen instructions.
-6. **Troubleshooting**
+5. **Troubleshooting**
     - If you encounter issues, check the game's official forums or our server's [Discord](https://discord.gg/t7DcSvbwFt) for troubleshooting tips and support.
-7. **Join Our Community**
+6. **Join Our Community**
     - Once you're set up, don't forget to join our server's [Discord](https://discord.gg/t7DcSvbwFt) channel for the latest news, updates, and to connect with other players.
 
 +++ DayZ Launcher
 
-2. **Download and Install DayZ Epoch Mod**
+2. **Download and Install DayZ Launcher**
     - Visit the official [DayZ Launcher](https://dayzlauncher.com) website and download the installer.
     - Run the installer and follow the on-screen instructions to install [DayZ Launcher](https://dayzlauncher.com) on your computer.
 3. **Configure DayZ Launcher for Epoch Mod**
