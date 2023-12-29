@@ -77,7 +77,6 @@ icon: ":video_game:"
    - No running over AI; consequences for violation.
 
 ## Building Rules
-
 1. **Trader Zone Distance**
    - No building within 500m from trader zone end.
 2. **High Loot Area Restriction**
