@@ -9,7 +9,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
 
 +++ Military Armed
 
-
 **Pick-up TK (PKT)**
 :   Buy: [!badge variant="dark" corners="square" text="1,800" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="1,400" icon=":dollar:"]   
@@ -500,16 +499,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="100" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="FIM-92F Stinger" icon=":gun:"] [!badge variant="dark" corners="square" text="M3P" icon=":gun:"]
 
-**HMMWV Avenger**
-:   Buy: [!badge variant="dark" corners="square" text="129,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="70,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="50" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="3" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="150" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="3" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="100" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="FIM-92F Stinger" icon=":gun:"] [!badge variant="dark" corners="square" text="M3P" icon=":gun:"]
-
 **Tatra PKT (Winter)**
 :   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
@@ -640,16 +629,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="Smokes" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
 
-**BRDM-2 (Desert Camo)**
-:   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="85" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
 **BRDM-2**
 :   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
@@ -659,76 +638,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
     Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="KPVT" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BRDM-2 CDF**
-:   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="85" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BRDM-2**
-:   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="85" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="KPVT" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BRDM-2 TK**
-:   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="85" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BRDM-2 GUE**
-:   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="85" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BRDM-2 rusty**
-:   Buy: [!badge variant="dark" corners="square" text="25,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="8,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="85" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="220" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BRDM-2 (ATGM)**
-:   Buy: [!badge variant="dark" corners="square" text="48,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="28,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="120" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="100" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BRDM-2 (ATGM)**
-:   Buy: [!badge variant="dark" corners="square" text="48,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="28,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="120" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="100" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
 
 **BRDM-2 (ATGM)**
 :   Buy: [!badge variant="dark" corners="square" text="48,000" icon=":dollar:"]   
@@ -770,7 +679,7 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="246" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="M220 TOW" icon=":gun:"] [!badge variant="dark" corners="square" text="Smokes" icon=":gun:"]
 
-**Stryker  MGS**
+**Stryker MGS**
 :   Buy: [!badge variant="dark" corners="square" text="359,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="229,000" icon=":dollar:"]   
     Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="50" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
@@ -780,17 +689,7 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="246" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="M68" icon=":gun:"] [!badge variant="dark" corners="square" text="M2 Machinegun" icon=":gun:"] [!badge variant="dark" corners="square" text="Smokes" icon=":gun:"]
 
-**BTR-60 (Green)**
-:   Buy: [!badge variant="dark" corners="square" text="58,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="29,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="120" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="11" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="100" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="100" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**BTR-60 (Woodland**
+**BTR-60**
 :   Buy: [!badge variant="dark" corners="square" text="58,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="29,000" icon=":dollar:"]   
     Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
@@ -810,7 +709,7 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="300" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="Smokes" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
 
-**LAV-25 **
+**LAV-25**
 :   Buy: [!badge variant="dark" corners="square" text="198,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="129,000" icon=":dollar:"]   
     Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
@@ -830,7 +729,7 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="300" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="Smokes" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
 
-**BTR-90 **
+**BTR-90**
 :   Buy: [!badge variant="dark" corners="square" text="258,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="129,000" icon=":dollar:"]   
     Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
@@ -852,103 +751,13 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
 
 **BMP-2**
 :   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"] or [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]    
     Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
     Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
     Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
     Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
     Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2 (rusty)**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2 (winter)**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BMP-2**
-:   Buy: [!badge variant="dark" corners="square" text="235,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="115,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="9" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="65" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="2A42" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"] [!badge variant="dark" corners="square" text="Konkurs 9M113" icon=":gun:"]
-
-**BVP-1**
-:   Buy: [!badge variant="dark" corners="square" text="245,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="175,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="5" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="250" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="11" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="75" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="73mm 2A28" icon=":gun:"] [!badge variant="dark" corners="square" text="Malyutka 9K11" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
 
 **BVP-1**
 :   Buy: [!badge variant="dark" corners="square" text="245,000" icon=":dollar:"]   
@@ -1010,26 +819,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="ZiS-S-53" icon=":gun:"] [!badge variant="dark" corners="square" text="DT" icon=":gun:"]
 
-**T-34**
-:   Buy: [!badge variant="dark" corners="square" text="215,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="13,500" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="300" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="55" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="ZiS-S-53" icon=":gun:"] [!badge variant="dark" corners="square" text="DT" icon=":gun:"]
-
-**T-34**
-:   Buy: [!badge variant="dark" corners="square" text="215,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="13,500" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="300" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="55" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="ZiS-S-53" icon=":gun:"] [!badge variant="dark" corners="square" text="DT" icon=":gun:"]
-
 **T-55**
 :   Buy: [!badge variant="dark" corners="square" text="245,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="175,000" icon=":dollar:"]   
@@ -1039,66 +828,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Max Speed: [!badge variant="dark" corners="square" text="55" icon=":dash:"]   
     Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="D-10" icon=":gun:"] [!badge variant="dark" corners="square" text="SGMT" icon=":gun:"]
-
-**T-55**
-:   Buy: [!badge variant="dark" corners="square" text="245,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="175,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="450" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="55" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="D-10" icon=":gun:"] [!badge variant="dark" corners="square" text="SGMT" icon=":gun:"]
-
-**T-72**
-:   Buy: [!badge variant="dark" corners="square" text="275,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="165,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="690" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="60" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="D-81" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**T-72**
-:   Buy: [!badge variant="dark" corners="square" text="275,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="165,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="690" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="60" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="D-81" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**T-72**
-:   Buy: [!badge variant="dark" corners="square" text="275,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="165,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="690" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="60" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="D-81" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**T-72**
-:   Buy: [!badge variant="dark" corners="square" text="275,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="165,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="690" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="60" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="D-81" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
-
-**T-72 (rusty)**
-:   Buy: [!badge variant="dark" corners="square" text="275,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="165,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="690" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="60" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="D-81" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
 
 **T-72**
 :   Buy: [!badge variant="dark" corners="square" text="275,000" icon=":dollar:"]   
@@ -1130,26 +859,6 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
     Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
     Weapons: [!badge variant="dark" corners="square" text="M256" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
 
-**M1A1**
-:   Buy: [!badge variant="dark" corners="square" text="300,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="215,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="850" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="72" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="M256" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
-
-**M1A2 TUSK**
-:   Buy: [!badge variant="dark" corners="square" text="300,000" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="215,000" icon=":dollar:"]   
-    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="0" icon=":school_satchel:"]   
-    Armor: [!badge variant="dark" corners="square" text="900" icon=":shield:"]  
-    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
-    Max Speed: [!badge variant="dark" corners="square" text="72" icon=":dash:"]   
-    Fuel: [!badge variant="dark" corners="square" text="700" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="M256" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
-
 **M1A2 TUSK**
 :   Buy: [!badge variant="dark" corners="square" text="300,000" icon=":dollar:"]   
     Sell: [!badge variant="dark" corners="square" text="215,000" icon=":dollar:"]   
@@ -1173,13 +882,353 @@ You'll need a humanity score of at least [!badge variant="primary" text="5,000"]
 +++ Helicopter Armed
 
 **Bell 47 Transport (Olive-green)**
-:   Buy: [!badge variant="dark" corners="square" text="20,000 Coins" icon=":dollar:"]   
-    Sell: [!badge variant="dark" corners="square" text="10,000 Coins" icon=":dollar:"]   
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
     Storage: [!badge variant="dark" corners="square" text="3" icon=":axe:"] [!badge variant="dark" corners="square" text="30" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="2" icon=":school_satchel:"]   
     Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
     Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
     Max Speed: [!badge variant="dark" corners="square" text="169" icon=":dash:"]   
     Fuel: [!badge variant="dark" corners="square" text="450" icon=":fuelpump:"]   
-    Weapons: [!badge variant="dark" corners="square" text="Grenadex2" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M60" icon=":gun:"]
+    Weapons: [!badge variant="dark" corners="square" text="Grenade x 2" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M60" icon=":gun:"]
+
+**Bell 47 Transport (Green)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="3" icon=":axe:"] [!badge variant="dark" corners="square" text="30" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="2" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="5" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="169" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="450" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Grenade x 2" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M60" icon=":gun:"]
+
+**Bell 47 Gunship (Olive-green)**
+:   Buy: [!badge variant="dark" corners="square" text="35,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="40" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="4" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="169" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="450" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Twin M60" icon=":gun:"] [!badge variant="dark" corners="square" text="Grenade" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"]
+
+**Bell 47 Gunship (Green)**
+:   Buy: [!badge variant="dark" corners="square" text="35,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="40" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="4" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="169" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="450" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Twin M60" icon=":gun:"] [!badge variant="dark" corners="square" text="Grenade" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"]
+
+**Bell 47 Gunship (Olive-green)**
+:   Buy: [!badge variant="dark" corners="square" text="39,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="19,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="40" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="4" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="169" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="450" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Twin M134" icon=":gun:"] [!badge variant="dark" corners="square" text="Greanade" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"]
+
+**Bell 47 Gunship (Green)**
+:   Buy: [!badge variant="dark" corners="square" text="39,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="19,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="40" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="4" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="169" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="450" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Twin M134" icon=":gun:"] [!badge variant="dark" corners="square" text="Greanade" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"]
+
+**AH6J Little Bird**
+:   Buy: [!badge variant="dark" corners="square" text="28,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="1,600" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="40" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="4" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="2" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="235" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="242" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="M134" icon=":gun:"] [!badge variant="dark" corners="square" text="Flares" icon=":gun:"]
+
+**UH-1H (Green)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (CDF)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (Woodland)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (Desert)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (Desert-Light)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (Gray)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (Black)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (SAR)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**UH-1H (Winter)**
+:   Buy: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="10,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="15" icon=":axe:"] [!badge variant="dark" corners="square" text="80" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="8" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**Mi-17**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (TK)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (UN)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (CDF)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (Desert)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (Green)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (Blue)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (Black)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-171sh**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**Mi-17 (Winter)**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="30" icon=":axe:"] [!badge variant="dark" corners="square" text="150" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="8" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="25" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="19" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="240" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1870" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT x 2" icon=":gun:"]
+
+**MH-60S**
+:   Buy: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="15,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="35" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="16" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="270" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="2760" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240 x 2" icon=":gun:"]
+
+**Kamow Ka-60**
+:   Buy: [!badge variant="dark" corners="square" text="40,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="20,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="120" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="10" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="300" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="2200" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="PKT" icon=":gun:"]
+
+**AW159 Wildcat**
+:   Buy: [!badge variant="dark" corners="square" text="45,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="27,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="120" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="10" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="293" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="2200" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
+
+**UH-60M**
+:   Buy: [!badge variant="dark" corners="square" text="50,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="27,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="20" icon=":axe:"] [!badge variant="dark" corners="square" text="100" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="6" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="20" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="16" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="295" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="2760" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M134 x 2" icon=":gun:"]
+
+**UH-1Y Venom**
+:   Buy: [!badge variant="dark" corners="square" text="55,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="29,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="10" icon=":axe:"] [!badge variant="dark" corners="square" text="30" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="4" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="10" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="293" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="1333" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M134 x 2" icon=":gun:"]
+
+**CH-47F Chinook (Green)**
+:   Buy: [!badge variant="dark" corners="square" text="65,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="40" icon=":axe:"] [!badge variant="dark" corners="square" text="300" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="10" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="28" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="293" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="4043" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M134 x 2" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
+
+**CH-47F Chinook (Black)**
+:   Buy: [!badge variant="dark" corners="square" text="65,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="40" icon=":axe:"] [!badge variant="dark" corners="square" text="300" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="10" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="28" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="293" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="4043" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M134 x 2" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
+
+**CH-47F Chinook (Grey)**
+:   Buy: [!badge variant="dark" corners="square" text="65,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="40" icon=":axe:"] [!badge variant="dark" corners="square" text="300" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="10" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="28" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="293" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="4043" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M134 x 2" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
+
+**CH-47F Chinook (Desert)**
+:   Buy: [!badge variant="dark" corners="square" text="65,000" icon=":dollar:"]   
+    Sell: [!badge variant="dark" corners="square" text="30,000" icon=":dollar:"]   
+    Storage: [!badge variant="dark" corners="square" text="40" icon=":axe:"] [!badge variant="dark" corners="square" text="300" icon=":meat_on_bone:"] [!badge variant="dark" corners="square" text="10" icon=":school_satchel:"]   
+    Armor: [!badge variant="dark" corners="square" text="30" icon=":shield:"]  
+    Seats: [!badge variant="dark" corners="square" text="28" icon=":seat:"]   
+    Max Speed: [!badge variant="dark" corners="square" text="293" icon=":dash:"]   
+    Fuel: [!badge variant="dark" corners="square" text="4043" icon=":fuelpump:"]   
+    Weapons: [!badge variant="dark" corners="square" text="Flares" icon=":gun:"] [!badge variant="dark" corners="square" text="M134 x 2" icon=":gun:"] [!badge variant="dark" corners="square" text="M240" icon=":gun:"]
 
 +++
