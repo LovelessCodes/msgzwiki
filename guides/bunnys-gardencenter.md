@@ -4,6 +4,10 @@ icon: ":eggplant:"
 order: 99
 ---
 
+!!!
+Before you can start using this guide for anything at all, you'll need `75,000` humanity score
+!!!
+
 Welcome to **[Bunny's Gardencenter](/traders/bunnys-gardencenter.md) Guide**! This guide will walk you through the process of crafting plant kits and other related items in the game.
 
 [!ref Bunny's Gardencenter Trader](/traders/bunnys-gardencenter.md)
