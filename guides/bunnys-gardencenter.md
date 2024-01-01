@@ -30,12 +30,23 @@ Welcome to **[Bunny's Gardencenter](/traders/bunnys-gardencenter.md) Guide**! Th
 - Consider the accessibility of your plants to other players - they can harvest your plants if they get close enough.
 
 **Drops**
-||| Tobacco
+
++++ Tobacco
+
+-![Tobacco Leaf](/static/items/leaves_ca.png)   
+![Tobacco](/static/items/equip_kilotobacco_CA.png)-
+
 Drops 1-2 `Tobacco Leaf`   
-4x `Tobacco Leaf` = `Kilo of Tobacco`
-||| Hemp
+4x `Tobacco Leaf` can be used to craft `Kilo of Tobacco`   
+12x `Kilo of Tobacco` can be used to craft `Bulk of Tobacco`
+
++++ Hemp
+-![Hemp](/static/items/equip_kilohemp_CA.png)
 Drops 1-2 `Kilo of Hemp`   
-`Kilo of Hemp` can be used to craft `Hemp Seeds` - or you can smoke it.
-|||
+1x `Kilo of Hemp` can be used to craft `Hemp Seeds` or `Canvas`   
+12x `Kilo of Hemp` can be used to craft `Bulk of Hemp`   
+or you can smoke it.   
+
++++
 
 This guide should help you navigate the gardening process. Happy Gardening!
